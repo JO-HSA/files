@@ -1,0 +1,187 @@
+{
+    "locations": [
+      {
+        "name": "Paris",
+        "coordinates": { "lat": 48.8566, "lng": 2.3522 },
+        "link": "https://new-lets-go-site.webflow.io/paris",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/france.png",
+        "done": true
+      },
+      {
+        "name": "Harvard Square",
+        "coordinates": { "lat": 42.3734734, "lng": -71.1189431 },
+        "link": "https://new-lets-go-site.webflow.io/harvard-square-boston",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": true
+      },
+      {
+        "name": "Boston",
+        "coordinates": { "lat": 42.3554334, "lng": -71.060511 },
+        "link": "https://new-lets-go-site.webflow.io/boston",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": true
+      },
+      {
+        "name": "London",
+        "coordinates": { "lat": 51.4893335, "lng": -0.1440551 },
+        "link": "https://new-lets-go-site.webflow.io/london",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-kingdom.png",
+        "done": false
+      },
+      {
+        "name": "Barcelona",
+        "coordinates": { "lat": 41.3828939, "lng": 2.1774322 },
+        "link": "https://new-lets-go-site.webflow.io/barcelona",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/spain.png",
+        "done": false
+      },
+      {
+        "name": "Amsterdam",
+        "coordinates": { "lat": 52.3730796, "lng": 4.8924534 },
+        "link": "https://new-lets-go-site.webflow.io/amsterdam",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/netherlands.png",
+        "done": false
+      },
+      {
+        "name": "Madrid",
+        "coordinates": { "lat": 40.4167047, "lng": -3.7035825 },
+        "link": "https://new-lets-go-site.webflow.io/madrid",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/spain.png",
+        "done": false
+      },
+      {
+        "name": "Dubai",
+        "coordinates": { "lat": 25.2653471, "lng": 55.2924914 },
+        "link": "https://new-lets-go-site.webflow.io/dubai",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-arab-emirates.png",
+        "done": false
+      },
+      {
+        "name": "Prague",
+        "coordinates": { "lat": 50.0874654, "lng": 14.4212535 },
+        "link": "https://new-lets-go-site.webflow.io/prague",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/czech-republic.png",
+        "done": false
+      },
+      {
+        "name": "San Francisco",
+        "coordinates": { "lat": 37.7792588, "lng": -122.4193286 },
+        "link": "https://new-lets-go-site.webflow.io/san-francisco",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": false
+      },
+      {
+        "name": "Los Angeles",
+        "coordinates": { "lat": 34.0536909, "lng": -118.242766 },
+        "link": "https://new-lets-go-site.webflow.io/los-angeles",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": false
+      },
+      {
+        "name": "Rome",
+        "coordinates": { "lat": 41.8933203, "lng": 12.4829321 },
+        "link": "https://new-lets-go-site.webflow.io/rome",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/italy.png",
+        "done": false
+      },
+      {
+        "name": "New York",
+        "coordinates": { "lat": 40.7127281, "lng": -74.0060152 },
+        "link": "https://new-lets-go-site.webflow.io/new-york",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": false
+      },
+      {
+        "name": "Istanbul",
+        "coordinates": { "lat": 41.006381, "lng": 28.9758715 },
+        "link": "https://new-lets-go-site.webflow.io/istanbul",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/turkey.png",
+        "done": false
+      },
+      {
+        "name": "France",
+        "coordinates": { "lat": 46.2276, "lng": 2.2137 },
+        "link": "https://new-lets-go-site.webflow.io/france",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/france.png",
+        "done": true
+      },
+      {
+        "name": "Hong Kong",
+        "coordinates": { "lat": 22.2793278, "lng": 114.1628131 },
+        "link": "https://new-lets-go-site.webflow.io/hong-kong",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/hong-kong.png",
+        "done": false
+      },
+      {
+        "name": "Singapore",
+        "coordinates": { "lat": 1.357107, "lng": 103.8194992 },
+        "link": "https://new-lets-go-site.webflow.io/singapore",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/singapore.png",
+        "done": false
+      },
+      {
+        "name": "Chicago",
+        "coordinates": { "lat": 41.8755616, "lng": -87.6244212 },
+        "link": "https://new-lets-go-site.webflow.io/chicago",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/united-states.png",
+        "done": false
+      },
+      {
+        "name": "Bali",
+        "coordinates": { "lat": -8.3304977, "lng": 115.0906401 },
+        "link": "https://new-lets-go-site.webflow.io/bali",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/indonesia.png",
+        "done": false
+      },
+      {
+        "name": "Tokyo",
+        "coordinates": { "lat": 35.6821936, "lng": 139.762221 },
+        "link": "https://new-lets-go-site.webflow.io/tokyo",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/japan.png",
+        "done": false
+      },
+      {
+        "name": "Lisbon",
+        "coordinates": { "lat": 38.7077507, "lng": -9.1365919 },
+        "link": "https://new-lets-go-site.webflow.io/lisbon",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/portugal.png",
+        "done": false
+      },
+      {
+        "name": "Bangkok",
+        "coordinates": { "lat": 13.7524938, "lng": 100.4935089 },
+        "link": "https://new-lets-go-site.webflow.io/bangkok",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/thailand.png",
+        "done": false
+      },
+      {
+        "name": "Porto",
+        "coordinates": { "lat": 41.1494512, "lng": -8.6107884 },
+        "link": "https://new-lets-go-site.webflow.io/porto",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/portugal.png",
+        "done": false
+      },
+      {
+        "name": "Cape Town",
+        "coordinates": { "lat": -33.928992, "lng": 18.417396 },
+        "link": "https://new-lets-go-site.webflow.io/cape-town",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/south-africa.png",
+        "done": false
+      },
+      {
+        "name": "Florence",
+        "coordinates": { "lat": 43.7697955, "lng": 11.2556404 },
+        "link": "https://new-lets-go-site.webflow.io/florence",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/italy.png",
+        "done": false
+      },
+      {
+        "name": "Dublin",
+        "coordinates": { "lat": 53.3493795, "lng": -6.2605593 },
+        "link": "https://new-lets-go-site.webflow.io/dublin",
+        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/ireland.png",
+        "done": false
+      }
+    ]
+  }
+  
