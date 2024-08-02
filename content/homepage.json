@@ -1,13 +1,6 @@
 {
     "locations": [
       {
-        "name": "Paris",
-        "coordinates": { "lat": 48.8566, "lng": 2.3522 },
-        "link": "https://new-lets-go-site.webflow.io/paris",
-        "flag": "https://cdn.statically.io/gh/hsajoshua/files/main/icons/france.png",
-        "done": true
-      },
-      {
         "name": "Harvard Square",
         "coordinates": { "lat": 42.3734734, "lng": -71.1189431 },
         "link": "https://new-lets-go-site.webflow.io/harvard-square-boston",
