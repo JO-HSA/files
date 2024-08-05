@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Chateau de Versailles",
+        "coordinates": {
+            "lat": 48.804861,
+            "lng": 2.120376
+        },
+        "contentId": "chateau-de-versailles",
+        "country": "France",
+        "category": "Sights: Museums",
+        "openingHours": "Tuesday-Sunday 9AM-6:30PM",
+        "price": "Admission €18, recommended to buy online",
+        "description": "The Château has played an important role in the history of both the French Monarchy and the rise of the Republic. Louis XVI and Marie-Antoinette were married here in 1770, just twenty-three years before their heads famously rolled off the guillotine during the French Revolution. After the palace was seized by revolutionaries in 1789, it lay empty for many years before being converted to a museum celebrating the glory of France. Today, visitors can walk through the chambers of Louis XIV, the State Apartments, the Gallery of Battles, and the Mesdames' Apartments. Once you see the blatant extravagance of the gold façades and chandeliers in the Hall of Mirrors, you will have no trouble imagining why the revolutionaries were so excited to decapitate their rulers."
+    },
+    {
+        "name": "The Gallery of Great Battles",
+        "coordinates": {
+            "lat": 48.803369,
+            "lng": 2.120634
+        },
+        "contentId": "gallery-of-great-battles",
+        "country": "France",
+        "category": "Sights: Museums",
+        "openingHours": "Tuesday-Sunday 9AM-6:30PM",
+        "price": "Included in Museum admission: walk through State Apartment",
+        "description": "As you wade through the crowds in the State Apartments, you'll barely be able to make out the next room past the sea of selfie sticks. Push onward, brave one, for there is light and air on the other side of that army. The Gallery of Great Battles tends to be relatively less frequented than the surrounding rooms, and is without a doubt one of the most fascinating parts of the palace. Built by King Louis-Philippe as part of the museum to the glory of France, the gallery displays 33 enormous paintings of the most famous battles in French history, stretching all the way back to King Clovis's victory over the Alemanni in 496. It's fascinating to walk through the giant hall and watch how the armor and weapons changed over time. You'll come out thankful that you will (hopefully) never have to fight in any medieval battles."
+    },
+    {
+        "name": "Aparthé",
+        "coordinates": {
+            "lat": 48.807841,
+            "lng": 2.128521
+        },
+        "contentId": "aparthe",
+        "country": "France",
+        "category": "Food",
+        "openingHours": "Daily 12PM-2:30PM, 7PM-10:30PM",
+        "price": "Entrees from €14.50",
+        "description": "Although a long day poking around a château can be lots of fun, sometimes you become disgusted by the pretentiousness of it all and just want some good, hearty home cooking. Aparthé, located in the actual town of Versailles, far out of view of the palace itself, is the place to go. Serving traditional Brasserie fare like duck leg and steak frites, with a few innovations like a Tandoori chicken and a range of fish options, Aparthé reminds you why it doesn't take that much money to be happy. All the same, you're in the home of kings, so you'll have to pay a bit-- there's just no need to bring your council of financial advisors."
+    },
+    {
+        "name": "Creparie la Place",
+        "coordinates": {
+            "lat": 48.805196,
+            "lng": 2.126806
+        },
+        "contentId": "creparie-la-place",
+        "country": "France",
+        "category": "Food",
+        "openingHours": "Monday-Friday 10AM-3PM, 7PM-11PM; Saturday-Sunday 11AM-11PM",
+        "price": "Savory crepes from €8.50, sweet crepes from €4, salads from €14",
+        "description": "Versailles is so huge that it can swallow you up, hold you for hours, and then finally spit you out once you've had the time to see 146 gold statues and made circles around the same fountain 16 times. It can be easy to get sucked into the expensive cafes and pondside restaurants, but getting a meal outside the chateau will not only save you money but also remind you that real people live in this town. Yeah, the one right next to that enormous castle. La Place is still within sight of the Chateau, so you can sit outside with a savory or sweet crêpe and continue to imagine yourself as Marie-Antoinette. Let them eat crêpes!"
+    }
+]
