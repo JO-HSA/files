@@ -1,0 +1,210 @@
+[
+    {
+        "name": "La Cité du Vin",
+        "coordinates": {
+            "lat": 44.86239614776035,
+            "lng": -0.5506256684110105
+        },
+        "contentId": "la-cite-du-vin",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10 AM–7 PM",
+        "admission": "Reduced admission from €14",
+        "description": "La Cité du Vin is an impressive architectural feat: the structure itself is modeled after a decanter, so you already know that this glitzy, brand-spanking-new sight isn't going to disappoint. Established in 2016, Cité du Vin quickly overshadowed its younger sister, Musée du Vin et du Négoce, with its extensive exhibits about wine, modern features, and wine tastings. At the end of the day, we appreciated the smaller sibling a little bit more. call us old-fashioned, but we'd rather have the three wine tastings in the Chartrons district that the two Citédu Vin offers (more is better, especially when it comes to wine). Plus, the entrance to La Cité du Vin is steep at $20. Yeah, you heard us. $20."
+    },
+    {
+        "name": "Palais Gallien",
+        "coordinates": {
+            "lat": 44.84776696641399,
+            "lng": -0.582988808074261
+        },
+        "contentId": "palais-gallien",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free, tours €3",
+        "description": "Bordeaux is just under 1000 miles from Rome, but, even with that distance, you're bound to find a piece of Roman history in wine country. Located just a few blocks away from the Jardin des Plantes, Palais Gallien is a Gallo-Roman amphitheater that holds the very prestigious title of the oldest Roman ruin in Bordeaux. Although it serves today as a shelter for French pigeons, it has managed to keep its majesty throughout the centuries of wear and tear by even the most unsuspecting of guests (rumor has it that Palais Gallien was a hang-out spot for prostitutes and witches in the seventeenth century). Walk by at night to see the structure lit up courtesy of the bright lights implanted in the ground."
+    },
+    {
+        "name": "Basilique Saint-Michel",
+        "coordinates": {
+            "lat": 44.83436355407805,
+            "lng": -0.5650683295559057
+        },
+        "contentId": "basilique-saint-michel",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 9 AM–7 PM",
+        "admission": "Free, tours from €3.50",
+        "description": "The city of Bordeaux may be a UNESCO World Heritage Site, but the Basilique Saint-Michel is one all on its own. This fourteenth-century basilica, although a bit of a walk from the city center, is well worth a trip. The interior is typical of a Gothic European cathedral, bearing some similarity to the nearby Cathédrale Saint-André, but it has an older, more lived-in feel. Take a walk around the basilica and then climb its bell tower, the Fleche de St. Michel, for a leg workout and fantastic view of the city below. On Fridays and Sundays, you'll find an outdoor market of the antique and produce varieties in the adjacent square."
+    },
+    {
+        "name": "Cathédrale Saint-Andre",
+        "coordinates": {
+            "lat": 44.8376362907197,
+            "lng": -0.5776644489706935
+        },
+        "contentId": "cathedrale-saint-andre",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday 9:30 AM–8 PM, Monday 2–7:30 PM, Tuesday-Saturday 10 AM–7:30 PM",
+        "admission": "Free",
+        "description": "Take a deep breath because you're about to have it taken away. The Cathédrale Saint-André, also known as the Bordeaux Cathedral, stands tall in the middle of Place Pey-Berland with its magnificent Gothic architecture of the Aquitaine region. Over many years, the Bordelaise have made improvements to the structure, elevating the nave with pointed arches, restoring the giant organ, and opening the royal portal. The cathedral, apart from serving as a religious center, was formerly an animal feed store during the French Revolution (which is kind of gross when you think about it) and was destroyed during WWI. Since then, it has been restored to its former glory with intricately decorated chapels dedicated to various saints and stunning biblically-inspired works of art."
+    },
+    {
+        "name": "Tour Pey-Berland",
+        "coordinates": {
+            "lat": 44.8375920071331,
+            "lng": -0.5765940250228402
+        },
+        "contentId": "tour-pey-berland",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10 AM–6 PM",
+        "admission": "€6",
+        "description": "Forget the StairMaster; the Tour Pey-Berland has your leg workout covered. The 233-step Gothic structure is the bell tower of the Cathédrale Saint-Andre and offers the most incredible panoramic 360-degree view of Bordeaux. Built in the fifteenth century, the tower lacked bells until 1853 and just served as a towering structure for a few hundred years. Now, though, you can climb up the tower and read about the history of every neighborhood or Bordeaux, including the Saint-Michel and Chartrons districts, on the descriptive plaques on the first landing. Pro-tip: bring water on your trek up the bell tower, as the climb is remarkably dizzying."
+    },
+    {
+        "name": "Musée de vin et du Négoce",
+        "coordinates": {
+            "lat": 44.85452780449736,
+            "lng": -0.5694710449761428
+        },
+        "contentId": "musee-du-vin-et-du-negoce",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10 AM–6 PM",
+        "admission": "Reduced admission €5",
+        "description": "Do not overlook the Musée du Vin et de Négoce for the comparatively glitzy La Citédu Vin. This small museum, located in the Chartrons district, is designed like the wine cellars the merchants of the district used to produce the highly prized Bordeaux wines. The first hallway of the museum is an in-depth look into the history of the Port of the Moon. The second hall explains how the wine was made, with the actual barrels and machines used to age the wine to perfection. After you walk through the museum, you'll enjoy tasting two wines as a museum guide gives you a comprehensive introduction to the specific wine regions of Bordeaux."
+    },
+    {
+        "name": "CAPC Musée D'Art Contemporain de Bordeaux",
+        "coordinates": {
+            "lat": 44.84827435653403,
+            "lng": -0.5721599301420857
+        },
+        "contentId": "capc-musee-art-contemporain",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Tuesday-Sunday 11 AM–6 PM",
+        "admission": "Reduced admission €4",
+        "description": "Contemporary art is weird. And the CAPC is no exception. This museum takes weird to the max, exhibiting videos of a naked man desperately trying to straighten his sheets, a female doll lying face down on the ground, and abstract rows of rocks. There's an interesting room on the upper level with seaweed-like strings hanging from the ceiling spelling out the words displaisir and plaisir, complemented by an eerie blue light spelling out fragments of caveat-like sentences. It's safe to say this is the stuff of nightmares and yes, after visiting, we had quite a few. When we visited, the ground floor displayed the work of Columbian artist Beatriz González, whose profound and sad exhibition with a lot to say about the political state of Columbia we appreciated very much."
+    },
+    {
+        "name": "Musée des Beaux Arts",
+        "coordinates": {
+            "lat": 44.83732070536339,
+            "lng": -0.5805274418204064
+        },
+        "contentId": "musee-des-beaux-arts",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday, Monday, Wednesday-Saturday 11 AM–6 PM",
+        "admission": "Reduced admission €2",
+        "description": "Bordeaux's Musée des Beaux Arts is what you'd expect: rows of art with pictures of Jesus and Jesus' mom. The museum is separated into two wings: fifteenth to seventeenth century and eighteenth to twentieth century. While the first contains mostly the aforementioned variety of paintings, the second contains works by many Bordelaise artists. The museum boasts a fair amount of works by renowned artists, including masterpieces by Matisse, Money, and Renoir in its high-ceilinged exhibits."
+    },
+    {
+        "name": "Darwin Eco-Système",
+        "coordinates": {
+            "lat": 44.84962059706388,
+            "lng": -0.5610768149049822
+        },
+        "contentId": "darwin-eco-systeme",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Thursday 8 AM–9 PM, Friday-Saturday 8 AM–11:30 PM",
+        "admission": "Free",
+        "description": "The Rive Droite of Bordeaux seems to always live in the shadow of its left-leaning sibling. But to ignore this side of the Garonne would be a huge mistake, especially when Darwin Eco-système dwells just across from the Chartrons District. Darwin, a repurposed military barrack, is part of Bordeaux's rejuvenation as a modern city. Come here to enjoy drinks on the banks of the river, complemented with a filling meal surrounded by vintage decor. This is the hub of urban culture in Bordeaux, complete with co-working spaces, an art gallery, and a skate park called the Hangar (we swear it was inspired by Avril Lavinge's 2002 hit 'Sk8ter Boi,' but that's just our opinion. Who knew the French were into angsty teen pop?)."
+    },
+    {
+        "name": "Base Sous-Marine",
+        "coordinates": {
+            "lat": 44.870490078649865,
+            "lng": -0.5596345134941177
+        },
+        "contentId": "base-sous-marine",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Monday-Friday 9 AM–5 PM",
+        "admission": "Reduced €3",
+        "description": "If World War II history is your thing, then you came to the right place. Venture to the outskirts of Bordeaux to a submarine base tucked away just steps from the Cité du Vin tram stop. Base Sous-Marine was one of five bases built on the Atlantic coast for fleets of German and Italian U-boats during the German occupation. The 42,000-meter structure, which was built between 1941 and 1943, looks like a huge hunk of rock from afar, but portions of it are open to the public."
+    },
+    {
+        "name": "L'Agneau À La Braise",
+        "coordinates": {
+            "lat": 44.839805777321175,
+            "lng": -0.5721063788731543
+        },
+        "contentId": "agneau-a-la-braise",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Saturday 7–11 PM",
+        "price": "Entrees from €20, wine from €10",
+        "description": "Don't get us wrong: we're all for solo travel and solo eating. After all, taking yourself out for a meal is on every single one of those 'Ten Steps to Your 'Eat, Pray, Love' Experience' Buzzfeed lists. But L'Agneau à la Braise probably isn't the place to do it. It is, however, the place to treat yourself to a nice dinner. Serving typical French fare, this restaurant in the Saint Pierre neighborhood of Bordeaux provides an intimate setting for you and your backpacker friends. We recommend trying their rib-eye steak or their leg of lamb, both cooked perfectly to make your dinner delicious and flavorful (and you'll get to watch the chefs cook your meat from the dining room). Pair your meat with wine straight from the famous Bordelaise chateaus you've been hearing about to round out a meal you'll reminisce about forever."
+    },
+    {
+        "name": "Fufu Bordeaux",
+        "coordinates": {
+            "lat": 44.84133932862676,
+            "lng": -0.5723898830415158
+        },
+        "contentId": "fufu-bordeaux",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 11:30 AM–11 PM",
+        "price": "Entrees from €9, sides from €4, sake from €4, soft drinks from €3",
+        "description": "Locals and tourists alike have heard of FuFu, and the crowds lining up at its door are living proof that this small, Japanese noodle bar has a cult following. With a wide selection of everything from ramen to stir fry to dumplings, FuFu's specialty is delicious noodles with perfectly salted broth and eggs. Choose from a basic ramen with pork or spice it up with a miso flavor. If noodles aren't your cup of tea, go for a spicy, flavorful wok dish and watch the skilled chefs prepare them right before your eyes. FuFu has a second location not too far from the first, where you can stop by for your second noodle dish (trust us, you'll want it)."
+    },
+    {
+        "name": "Nom d'Une Crêpe",
+        "coordinates": {
+            "lat": 44.841274013831224,
+            "lng": -0.5720287524674491
+        },
+        "contentId": "nom-d-une-crepe",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 11:45 AM–2:45 PM, 6:45–10:45 PM",
+        "price": "Classic menu €11.90, crêpes from €9, coffee and tea from €2",
+        "description": "Just a few blocks away from Place de la Bourse lies the perfect destination to satisfy your craving for a French crêpe. Nom d'Une Crêpe offers a series of deals on both savory and sweet crêpes, ranging from your classic Fraise to oeufs avec jambon. That's strawberries and eggs with ham, respectively, for those of you who haven't picked up French less. The interior of the restaurant resembles that of a wine cellar, which seems to be a common theme in Bordeaux. Order a cup of tea for a midday refresher and leave enough room in your stomach for at least two delectable crêpes: you won't want to miss out."
+    },
+    {
+        "name": "Bad Mother Fucker",
+        "coordinates": {
+            "lat": 44.829928864269405,
+            "lng": -0.5730113642782337
+        },
+        "contentId": "bad-mother-fucker",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday 5 PM–2 AM, Monday-Saturday 3 PM–2 AM",
+        "price": "Beer and wine from €5, shots from €3",
+        "description": "If you're looking to meet some strange characters that won't have their nose stuck in a glass of wine that smells 'oaky,' swing by this bar to say enchanté to some bad motherfuckers. We're not quite sure what word to use to encapsulate the atmosphere of this pub: Grungy? Alternative? Punk? Whatever it is, you're bound to enjoy a wild night consisting of Rolling Stones' hits, a wide selection of beers, billiards, and-- if you're lucky-- live music. So drop your wine glass and pick up a pint. Embrace the intensely red walls of this joint and grow a mullet: it's time to be a bad motherfucker (but even better to be one during happy hour from 5pm-8pm)."
+    },
+    {
+        "name": "The Starfish Pub",
+        "coordinates": {
+            "lat": 44.83724636819145,
+            "lng": -0.5708267056958023
+        },
+        "contentId": "starfish-pub",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday 4 PM–1 AM, Monday-Saturday 4 PM–2 AM",
+        "price": "Drinks from €3",
+        "description": "For the love of all that is good in the world, you can finally put away your wine connoisseur alter-ego and let loose at this poping underground club and warm red and yellow-walled bar. This hotspot is a big draw for your backpackers, Erasmus students, and locals from all walks of life. If you're lucky, you'll be able to belt out a classic French song on karaoke night or listen to local musicians during Starfish's jam sessions. Pro tip: come during happy hour (5:30-8:30) before this bar gets really crowded for sweet deals on all your favorite drinks (wine included)."
+    },
+    {
+        "name": "Symbiose",
+        "coordinates": {
+            "lat": 44.84903672967906,
+            "lng": -0.570758560105949
+        },
+        "contentId": "symbiose",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Tuesday 12–1:45 PM, 7 PM–12 AM, Wednesday-Saturday 12–1:45 PM, 7 PM–1 AM",
+        "price": "Lunch entrees from €13, dinner entrees from €20, plates from €8, drinks from €5",
+        "description": "At first plush, Symbiose looks like a hippie cafe joint that probably serves from the organic-only, grass-fed variety. Wrong. Located in the Chartrons district, Symbiose features a lovely fusion of tapas cuisine using meats such as chicken and duck in flavorful combinations only Ratatouille's Remy could have come up with. But the surprise about a Symbiose and its welcoming wood-paneled interior doesn't end there. Behind the grandfather clock at the back of the restaurant is a secret door, transforming this unassuming joint into a speakeasy right in the historical wine district."
+    }
+]
