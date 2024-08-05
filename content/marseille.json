@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Cathédrale la Major",
+        "coordinates": {
+            "lat": 43.299223141443676,
+            "lng": 5.364735339471207
+        },
+        "contentId": "cathedrale-la-major",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Daily 10AM-6:30PM",
+        "price": "Free",
+        "description": "The Cathédrale la Major makes no mistake in calling itself La Major. This place is HUGE. Now a national monument and home to the Archdiocese of Marseille, La Major and the nearby Notre Dame Basilica have been in a heated battle since the church first opened in 1893 over which Catholic establishment looks the most Gothic of all the Gothic churches in the city. La Major currently holds the winning title; just a few moments inside will tell you why. Gregorian chants echo through the halls of this cathedral, and long, marble-clad floors and ceilings spread out along expansive, narrow corridors. As an added, the ceilings and domes boast incredible art with whimsical geometric patterns that will have you staring up enough to cramp your neck muscles."
+    },
+    {
+        "name": "Le Cours Julien",
+        "coordinates": {
+            "lat": 43.29450473175172,
+            "lng": 5.383108187949633
+        },
+        "contentId": "le-cours-julien",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "\"Ayy mahn, don't worry, be happy! This is the mantra of Le Cours Julien, a street famous for the vibrant art that brings life into the square and restaurants surrounding it. Here, musicians sit outside throughout the day, spewing reggae hits and jamming in the afternoon sun. Vendors sell food from little tables in an almost family-style way, and at night, twinkling lights are turned on over the square's central pond. The art that lines these streets follows the first rule of graffiti: if you can't paint something better over it, don't paint anything at all. After decades of following this rule of thumb, it's clear to see why Cours Julien is such an impressive sight, holding the best of the best of Marseilles street art for decades.\""
+    },
+    {
+        "name": "Chateau d'If",
+        "coordinates": {
+            "lat": 43.27969071873218,
+            "lng": 5.325909602427878
+        },
+        "contentId": "chateau-d-if",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Daily 9:30AM-6PM",
+        "price": "Reduced ferry + admission €15.80",
+        "description": "The stuff of legends, the Chateau d'If is the prison that everyone's favorite protagonist, Edmond Dantes, was incarcerated in in Alexandre Dumas' The Count of Monte Cristo. This infamous fortress, and later, well-known prison, looms on a nearby island. As far as fortresses go, it does what every good island fortress does: protects the city from invasion, stands as an ominous warning to potential invaders, and runs an all-too expensive ferry ride for tourists. The steep price pales in comparison to the journey itself and the chance to explore this notorious and historic fort, all with a captivating ocean backdrop surrounding you."
+    },
+    {
+        "name": "Mairie de Marseille",
+        "coordinates": {
+            "lat": 43.296491413249214,
+            "lng": 5.369778083514982
+        },
+        "contentId": "mairie-de-marseille",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Monday-Friday 8:30AM-11:45AM 12:45PM-4:30PM, Saturday 9AM-12PM",
+        "price": "Free",
+        "description": "Most city halls conjure images of courtrooms and jurors, boring big-wigs, and rooms with a claustrophobic shortage of windows. But the Mairie de Marseille is no ordinary city hall. Here, explore an archaic-looking building standing tall amongst the other, more modern buildings and storefronts in the Old Port. Mairie de Marseille's impressive stature hints at its long, French history, and just taking in its outdoor steps and patio make it well worth the visit. This building sits right on the waterfront across from the Old Port, meaning that visiting theater buffs experience serious Les Miserables flashbacks as they look at it's haunting stance over the Old Port. This extravagant town hall is now considered a historic monument, and hides a surprising secret. Its front doors are somewhat of a scam: you have to enter one building from a set of back doors, then cross a bridge connecting the two buildings if you want to see anything higher than the ground floor."
+    },
+    {
+        "name": "Vieux-Port",
+        "coordinates": {
+            "lat": 43.295281078614224,
+            "lng": 5.373866113106892
+        },
+        "contentId": "vieux-port",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "The Vieux-Port, or Old Port of Marseille, has undergone quite the makeover in the past few years. Disguising its true age better than Dolly Parton, this place buzzes with activity. At night, this vibrant part of town comes to life as people sit by the water or under terraces sipping wine and taking in the views. By day, places to eat and shop line the port, and the port itself offers access to boat rides, ferries to nearby islands, and kayak and canoe rentals. A modern site with an old name, the Old Port overflows with historic landmarks, but also features new and exciting installments like their endless-sky mirror pavilion, where a reflective roof above you offers the perfect spot for a mirror selfie."
+    },
+    {
+        "name": "Musée des Civilisations de l'Europe et de la Méditerranée",
+        "coordinates": {
+            "lat": 43.29667946972961,
+            "lng": 5.361023661775037
+        },
+        "contentId": "musee-des-civilisations-de-leurope-et-de-la-mediterranee",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Wednesday-Monday 11AM-7PM, Tuesday Closed",
+        "price": "Reduced admission €5",
+        "description": "The Musée des Civilisations de l'Europe et de la Méditerranée has a name that's almost as big as its collections. Locals refer to it as the MuCEM, and even Google Maps refuses to acknowledge its long winded title. This massive museum could take an entire day to fully explore. But don't worry about getting bored: the modern exhibits offer interactive and engaging looks at the past and the museum itself sits on a beautiful monument. Built into a fortress right along Marseilles coastline, the MuCEM offers stunning views and an incredible landscape to explore without even buying a ticket. Chill in one of the seaside cafés, listen to the live music playing, or take a nap (yes, you really can in one of the lounge chairs overlooking the ocean."
+    },
+    {
+        "name": "Plage des Catalans",
+        "coordinates": {
+            "lat": 43.29065797562376,
+            "lng": 5.35520097940453
+        },
+        "contentId": "plage-des-catalans",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "Much like your best friend's relationship with their ex, things at this beach are rocky! Though its sandy shores may deceive you, we recommend packing some water shoes for this stop. The beach can become incredibly crowded in the summer months, and features bright, multi-colored towels, happy dogs, and vendors selling everything from ice cold beers to steaming crêpes. Pack up your sunscreen, because there aren't any trees to hide from the sun under at this beach, and it seems some locals like to take advantage of that. Don't be surprised if you find a semi-nude woman or speedo-clad man walking around these shores, as the French here have an intense fear of tan lines."
+    },
+    {
+        "name": "Le Comptoir Dugommier",
+        "coordinates": {
+            "lat": 43.29851311366267,
+            "lng": 5.3811206088107175
+        },
+        "contentId": "le-comptoir-dugommier",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Friday 7:30AM-5PM",
+        "price": "Breakfast from €5, lunch from €9",
+        "description": "With its 1940's classic style, large indoor mirrors, and hanging green lights, we're pretty sure Le Comptoir Dugommier belongs on a TV set, and not on a French street. The place is just a little too perfect, with incredible breakfast meals (read: eggs instead of bread) and great French lunches, all at incredibly reasonable prices. The place almost always packs in a huge crowd. The best time of day to visit is in the early morning, when the bread is fresh and the waiters won't look at you the wrong way for attempting to order breakfast for lunch. In this restaurant, see people pouring over newspapers and sipping coffees with friends. A great escape from the norm in France, Le Comptoir Dugommier is a must-visit restaurant in the city."
+    },
+    {
+        "name": "Wood",
+        "coordinates": {
+            "lat": 43.29678605863665,
+            "lng": 5.370497046298672
+        },
+        "contentId": "wood",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Friday 7:30AM-4PM",
+        "price": "Breakfast from €4, lunch from €12",
+        "description": "From the looks of it, the restaurant WOOD gets its classic name from absolutely nothing other than a hidden fascination with trees. The inside of this restaurant doesn't even feature wood floors, but it does offer up some pretty incredible cuisine at great prices. The expansive patio right outside the storefront is the perfect place to sit and take in a café creme, or indulge in a larger lunch of beef and ravioli. It's canopied patios, white tiled floors, and baby-blue chairs lift you away to the land of lavish living, where fresh and healthy foods impatiently wait to cuddle up in your stomach. And, we concede, the wooden tables add a nice touch that just might be enough to warrant the restaurant's name."
+    },
+    {
+        "name": "Carry Nation",
+        "coordinates": {
+            "lat": 43.32232253450165,
+            "lng": 5.3059115925213955
+        },
+        "contentId": "carry-nation",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday 6 PM–12 AM, Monday 7 PM–12 AM, Tuesday 7 PM–12 AM, Wednesday 7 PM–12 AM, Thursday 7 PM–1 AM, Friday 6 PM–2 AM, Saturday 6 PM–2 AM",
+        "price": "Cocktails from €12",
+        "description": "Alright buddy, what's the secret passcode? This ultra-elusive, prohibition-themed bar is so secretive you won't even find their address online, or even in this book for that matter. Hidden inside a wardrobe inside a locked souvenir shop somewhere in the heart of Marseille, this bar holds true to prohibition-era wonder. As you crawl through jackets and a dimly-lit tunnel to finally reach the bar, you may worry you're about to walk straight into a death trap, but have no tear, the open arms and liquor cabinets at Carry Nation await your arrival. To get the location and entry instructions, make a reservation online before you go (feel free to book the day of)."
+    },
+    {
+        "name": "Exit Cafe",
+        "coordinates": {
+            "lat": 43.29309972089933,
+            "lng": 5.371124829675848
+        },
+        "contentId": "exit-cafe",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday 9 AM–2 AM, Monday 9 AM–2 AM, Tuesday 9 AM–2 AM, Wednesday 9 AM–2 AM, Thursday 9 AM–2 AM, Friday 9 AM–3 AM, Saturday 9 AM–3 AM",
+        "price": "Cocktails from €10, beer and wine from €3",
+        "description": "While at Exit Care, the last thing to look for is an exit sign. This bar and nightclub packs crowds of people looking for great drinks with a waterfront view almost every night. A favorite stop for young people, Exit Cate provides ample opportunities to meet fellow travelers while sitting on the terrace outside, watching the latest football game (sorry, not the American kind) on the giant screen on the first Hoor, or dancing the night away on their top-floor lounge. This place also serves up mega-drinks to share or not to, if it's one of those nights. You can grab a 5-liter mojito or rum and coke here, and if you do, the hostel friends you met just a few hours ago are sure to become friends for life just a few sips in."
+    },
+    {
+        "name": "Les Berthom",
+        "coordinates": {
+            "lat": 43.292331264616536,
+            "lng": 5.372551747770377
+        },
+        "contentId": "les-berthom",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday 5 PM–12 AM, Monday 5 PM–12 AM, Tuesday 5 PM–1 AM, Wednesday 5 PM–1 AM, Thursday 5 PM–1 AM, Friday 5 PM–2 AM, Saturday 5 PM–2 AM",
+        "price": "Beers from €3.80",
+        "description": "There are two types of people in the world: those that like beer, and those that don't. Les Berthom caters to the people that really, really like beer. With over 30 different types of beer to choose from, you'll be amazed by the concoctions this place can come up with. From peach to coffee-flavored beer, you could spend an entire night working your way through their elaborate menu. Their outdoor patio stays packed throughout happy hour, but indoors a great industrial-brewery vibe awaits you, with high ceilings and long wooden tables just asking for you to place pitchers on."
+    }
+]
