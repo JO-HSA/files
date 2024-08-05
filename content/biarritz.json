@@ -1,0 +1,261 @@
+[
+    {
+        "name": "Colorama",
+        "coordinates": {
+            "lat": 43.45846176147461,
+            "lng": -1.5542854070663452
+        },
+        "contentId": "colorama",
+        "category": "Sights",
+        "country": "France",
+        "admission": "€5",
+        "description": "Is street art really street art if it isn't on an actual street? Call up your philosophy major friends to get Kant's perspective on these questions, because we're still stumped. COLORAMA challenges the classic perspective on what counts as street art (or art at all), as its galleries display floor-to-ceiling paintings by the most unconventional artists. This establishment, whose exterior looks straight off Route 66, is a wonder to the eyes and may give you the distinct urge to go buy spray paint."
+    },
+    {
+        "name": "Église Saint Martin de Biarritz",
+        "coordinates": {
+            "lat": 43.474464416503906,
+            "lng": -1.5560460090637207
+        },
+        "contentId": "eglise-saint-martin",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 7:30AM-6:00PM",
+        "admission": "Free",
+        "description": "When you see the Church of Saint Martin, your first thought will be 'Wow, it's a little bland on the outside for a church in Europe,' and your second thought will be 'Thank God it isn't Gothic.' Okay, maybe this is your first stop in Europe so you aren't quite over Gothic architecture yet. Either way, this church is an aesthetic saving grace. Its understated approach to worship contrasts the overwhelming elegance of Biarritz, making the Church of Saint-Martin stand out with poise and sophistication."
+    },
+    {
+        "name": "Chapelle Imperiale",
+        "coordinates": {
+            "lat": 43.484500885009766,
+            "lng": -1.5561529397964478
+        },
+        "contentId": "chapelle-imperiale",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Thursday 2PM-6PM, Saturday 2PM-6PM",
+        "admission": "€3",
+        "description": "They say purple is the color of sexual frustration. If that's true, then we have some questions for Napoleon III, who built this deep-purple chapel in 1864. Whether Napoleon III had a--er--sexually fulfilling life or not, today the chapel stands as the 'Jewel of Biarritz,' so clearly its purple hue has taken on a different meaning. Locals work hard to keep this jewel well hidden-- navigating the open hours of this site can be tricky, and tours are given by appointment only."
+    },
+    {
+        "name": "Crypt Sainte Eugénie",
+        "coordinates": {
+            "lat": 43.48252868652344,
+            "lng": -1.5638238191604614
+        },
+        "contentId": "crypt-sainte-eugenie",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 7:45AM-7PM",
+        "admission": "Free",
+        "description": "When modern day explorers finally unearthed the Crypt of Saint Eugénie, the French faced the relatable conundrum of keeping the crypt as is or turning it into a contemporary art museum. They went with option #2. Today, the crypt holds an interesting collection of abstract art. If you're searching for dead bodies and a cool, underground crypt vibe, this is not the place for you."
+    },
+    {
+        "name": "Phare de Biarritz",
+        "coordinates": {
+            "lat": 43.493377685546875,
+            "lng": -1.5537760257720947
+        },
+        "contentId": "phare-de-biarritz",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10AM-7PM",
+        "admission": "€3",
+        "description": "The lighthouse of Biarritz looms over the city's beaches like a professional basketball player looms over a six-year-old. Standing 73 meters above sea level, this place has been shining light on the Côte d'Azur since 1834. Navigate up its spiral staircases for astonishing panoramas of the mountain peppered coast and the Atlantic Ocean or enjoy views from the outside where hydrangeas and tamarisk trees line cobbled paths."
+    },
+    {
+        "name": "Port des Pêcheurs",
+        "coordinates": {
+            "lat": 43.48317337036133,
+            "lng": -1.5656803846359253
+        },
+        "contentId": "port-des-pecheurs",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "While you won't find any skipper captains clad in bright yellow fishing suits or holding giant fishing nets in this fisherman's port, you will find a collection of picturesque houses. These beautiful houses with brightly painted wooden doors and shutters have been renovated and now hold some of Biarritz's best seaside restaurants. The small block bustles with people, many coming to and from Port des Pêcheurs's small beach."
+    },
+    {
+        "name": "Rocher de la Vierge",
+        "coordinates": {
+            "lat": 43.48405075073242,
+            "lng": -1.570334553718567
+        },
+        "contentId": "rocher-de-la-vierge",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "The Virgin Rock is to Biarritz as the Statue of Liberty is to New York. She stands on an island, tourists flock from all over to see her, and she could not be more covered in bird poop. Birds or not, the Virgin Rock is a beautiful landmark and must-see for any visitor to the region. The bridge connecting it to the mainland was built in 1865 and, despite years of being worn down by the Atlantic, the monument still stands strong today. Visit this spot to take in the ocean around you, the statue above you, and the city behind you."
+    },
+    {
+        "name": "Aquarium de Biarritz",
+        "coordinates": {
+            "lat": 43.483464018830894,
+            "lng": -1.567877582417599
+        },
+        "contentId": "aquarium-de-biarritz",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 9 AM–10 PM",
+        "admission": "Reduced admission €13",
+        "description": "This aquarium contains two key things we're sure you won't find anywhere else in France, the largest sea turtles and sea lions you may ever see. We have no idea what they're feeding these babies, but boy, they are hefty. Additionally, the aquarium possesses an array of tanks filled with almost every possible underwater creature you can imagine, including a 15-foot long, bright green eel. Catch the sea lions snoring on rocks outside, wave hello to the turtles, and hope all three of you have eaten enough today to avoid starvation."
+    },
+    {
+        "name": "Biarritz History Museum",
+        "coordinates": {
+            "lat": 43.48193666917842,
+            "lng": -1.5620952539764714
+        },
+        "contentId": "biarritz-history-museum",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Tuesday-Saturday 10 AM–1 PM, 2:30–6:30 PM",
+        "admission": "€4",
+        "description": "This quirky museum puts Biarritz's bizarre history into full view. Built into a church and situated off a narrow road in the center of town, this hidden time capsule will transport you through the development of one of France's most popular destinations. If the Biarritz History Museum were ever to compete in Project Runway, you can be sure the design critic Tim Gunn would be yelling at her to 'Edit down! Keep it simple and crisp!' An extremely uncrisp museum, the Biarritz History Museum clashes patterns, packs on the detail, and would have killed the 2019 Met Gala with its campiness. Odd exhibits greet visitors from every corner, including a stuffed white bear (truly a complete monstrosity) and surfboards."
+    },
+    {
+        "name": "Biarritz Beaches",
+        "coordinates": {
+            "lat": 43.48768381652634,
+            "lng": -1.5556711558235297
+        },
+        "contentId": "biarritz-beaches",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "If you need any convincing that you should check out Biarritz's beaches while you're in France, we took at least five million pictures, suffered from an extreme sunburn, and trudged through Biarritz with sore swimming muscles and still want to go back. With four main beaches, you have some prime options to choose from during your time in the city. As its name suggests, Le Grande Page is the largest and most accessible of all the beaches and a favorite for sunbathers, small dogs, and surfers alike. Its nearby neighbor, the Plage Port Vieux, is a protected area without waves or wind and popular with families. You will find Plage Miramar right below the Phare de Biarritz-- a great spot for surfers looking for a thrill. First time surfers will find a home at the Côte de Basqie, a beach with perfect beginner waves."
+    },
+    {
+        "name": "Côte De Basque",
+        "coordinates": {
+            "lat": 43.47568418345417,
+            "lng": -1.566093184658824
+        },
+        "contentId": "cote-de-basque",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "Before heading to the Côte de Basque, you'll need to learn a few key phrases, namely, 'Hang 10,' 'Surf's Up,' and 'Awesome, bro.' The ultimate surfer's beach, there isn't much 'beach' to be found here when the tide is high. Not fit for lounging or sunbathing, this beach sits below high cliffs with ample graffiti to view while you shred the gnar below. Whether it's your first time surfing or you're a professional looking to scope out the competition waters, the Côte de Basque welcomes you."
+    },
+    {
+        "name": "3 Salsas",
+        "coordinates": {
+            "lat": 43.47470148574686,
+            "lng": -1.5639153772705903
+        },
+        "contentId": "3-salsas",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 7:30–11 PM",
+        "price": "Entrees from €12",
+        "description": "If you consider guacamole to be a 'salsa' then you are exactly the kind of person that 3 Salsas caters to. We're sorry, but as good as it may be, guacamole is not salsa. We'll let 3 Salsas' oversight slide because they make up for it with incredible Spanish dishes. As possibly the only place in France that doesn't believe in small portion sizes, you'll leave 3 Salsas full and happy. Don't skip the margaritas either, they pair extremely well with the food and the bartender doesn't skimp on the tequila."
+    },
+    {
+        "name": "Dodin",
+        "coordinates": {
+            "lat": 43.484084070231745,
+            "lng": -1.5598077232941188
+        },
+        "contentId": "dodin",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 8:30 AM–10:30 PM",
+        "price": "Meals from €9",
+        "description": "Even if Dodin had the worst pastries in all of France, we'd still recommend it to you simply for its floor-to-ceiling windows and prime seafront property smack in front of Le Grande Page. Thankfully though, Dodin features great eats and a menu that will make you wonder how bread could possibly taste so good. In fact, their breakfast was so good that it kept bringing us back again and again. There's no better way to start your day than sipping a cappuccino by the ocean."
+    },
+    {
+        "name": "Blé Noir",
+        "coordinates": {
+            "lat": 43.48424728319716,
+            "lng": -1.5625205306823524
+        },
+        "contentId": "ble-noir",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 9 AM–11:30 PM",
+        "price": "Crêpes from €5",
+        "description": "When you say the name 'Blé Noir' out loud, it may sound like a dissatisfied exclamation, but this place will leave you anything but. You'll be overlooking the ocean in this small restaurant that slings crêpes out by the plateful. With large open windows, an airy feel, and more crêpe topping combinations than you could imagine, Blé Noir keeps the French food tradition alive. If you're feeling extra hungry, we recommend going with one of the heartier options, and steering away from the all-too-good sweet crêpes, even if Nutella sounds irresistible."
+    },
+    {
+        "name": "Milwaukee Cafe",
+        "coordinates": {
+            "lat": 43.48225664079967,
+            "lng": -1.558567661929414
+        },
+        "contentId": "milwaukee-cafe",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 9:30 AM–6 PM",
+        "price": "Sandwiches from €5, meals from €12",
+        "description": "Milwaukee Cafe is probably the closest you'll ever get to being in Milwaukee, except for, you know, being in Milwaukee itself. Built from the ground up by a Milwaukee expat, this charming spot serves excellent American cuisine and the pour-over coffee you've been searching for. A modern shop infused with a mom-and-pop feel, Milwaukee cafe features a gorgeous patio and enough twinkle lights to rival any college dorm room."
+    },
+    {
+        "name": "Le Pim'Pi",
+        "coordinates": {
+            "lat": 43.4823111793874,
+            "lng": -1.556863984658824
+        },
+        "contentId": "le-pimpi",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Saturday 12–2 PM, 7–10 PM",
+        "price": "Meals from €21",
+        "description": "Le Pim'pi is the closest you, budget traveler, will get to a Michelin-level dining experience while in Biarritz. The smell of fresh caught seafood paired with locally grown vegetables wafts through the air while the waitstaff recommends dishes, each with the perfect wine pairing to boot. No matter how full you are after your entrée, don't skip dessert-- Le Pim'pi's are delectable, indulgent, to die for."
+    },
+    {
+        "name": "Newquay Bar",
+        "coordinates": {
+            "lat": 43.48249655557722,
+            "lng": -1.5593323232941187
+        },
+        "contentId": "newquay-bar",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10 AM–2 AM",
+        "price": "Beer from €3, shots from €2",
+        "description": "If Newquay Bar was meant to be a hidden gem for students in Biarritz, the owners did a very poor job of hiding it. Kick back in a La-Z-Boy-style leather chair and sip on a reasonably-priced beer as you watch a sports game or, for you intellectual types, whatever random documentary Newquay has decided to put on. Here, locals and tourists bond over cheap shots and pop music-- a surefire combination."
+    },
+    {
+        "name": "Le Caveau",
+        "coordinates": {
+            "lat": 43.48222370937675,
+            "lng": -1.5622133490294736
+        },
+        "contentId": "le-caveau",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 12–6 AM",
+        "price": "Cover €12, drinks from €8",
+        "description": "Pride in a bottle. This LGBTQ+ nightclub features a large bar, a long drink menu, and a dance floor that's always pumping. The place warms up around 1am, when well-dressed twenty-something flood through its doors ready for a party. Be warned: the bouncers will turn you away if you're not lookin' sharp and over 25."
+    },
+    {
+        "name": "Duplex",
+        "coordinates": {
+            "lat": 43.48344568539987,
+            "lng": -1.558412015341176
+        },
+        "contentId": "duplex",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 12–6 AM, 11:30 PM–12 AM",
+        "price": "Cover €15, drinks from €4",
+        "description": "With questionable dance floor names like 'The Cotton Club' and 'Pulp,' it's hard to tell what vibe Duplex is going for until you're inside. Its above 25 floor, the 'Cotton Club' feels as lush and extravagant as its name suggests. The 'Pulp' attracts younger crowds and what it lacks in VIP exclusivity, arched ceilings, and extravagant glowing bars, it makes up for in a party. Here, house music blasts all night long, and you're sure to find drinks as sugary as the daddies in the Cotton Club."
+    },
+    {
+        "name": "Eden Rock Cafe",
+        "coordinates": {
+            "lat": 43.482340283690604,
+            "lng": -1.5686744999999997
+        },
+        "contentId": "eden-rock-cafe",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 10:30 AM–12 AM",
+        "price": "Beers from €6, cocktails from €9",
+        "description": "Eden Rock Cafe is truly a little slice of the biblical garden come to life in Biarritz. Sitting right over the Plage de Miramar, this cafe's name comes from not only its rocky cliffs, but also the rock music it blasts deep into the night. Get here early enough and you'll be able to secure a spot right on the edges of the bar, which offers one of the best views of sunset in all of Biarritz. If you're hungry, Eden Rock Cafe also features an extensive menu with great seafood bites, making this the perfect night out in Biarritz."
+    }
+]
