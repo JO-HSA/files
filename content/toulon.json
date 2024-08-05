@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Old Town",
+        "coordinates": {
+            "lat": 43.12245,
+            "lng": 5.932548
+        },
+        "contentId": "old-town",
+        "country": "France",
+        "category": "Sights: Culture",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "No, Old Town is not the name for a retirement home in Toulon where many old grandmothers sit around knitting and gossiping about the pool boy. Perhaps even more excitingly, Old Town is the historic center of the city. Here you'll find incredible eateries, shopping centers, and historic landmarks. The cobbled streets all lead to an incredible statue and fountain in the Old Town Square. While those relentless summer days have you daydreaming of jumping in for a quick splash, we advise against fountain floundering (it's embarrassing, pull yourself together!). You'll find the Old Town doesn't seem too old upon visiting- the result of some horrific bombings in Toulon during WWII. But that doesn't stop this city center from feeling historic and rich in cultural value, much like a real retirement home."
+    },
+    {
+        "name": "Opéra de Toulon",
+        "coordinates": {
+            "lat": 43.124724,
+            "lng": 5.932673
+        },
+        "contentId": "opera-de-toulon",
+        "country": "France",
+        "category": "Sights: Culture",
+        "openingHours": "Monday-Friday 10AM-12:30PM, 2PM-5:30PM",
+        "price": "Free to visit",
+        "description": "The amount of drama you'll find at the Opera is enough to make any entrepreneuring traveler consider pitching a new reality TV series called 'The Real Housewives of the Opera.' This place features so much red tiling and ceiling drapes you'll think you walked into a color-blind person's nightmares. With high ceilings, beautiful archways, and marble stairs, you must see this building during your visit to Toulon. Built in 1862, the Toulon opera house holds the tide as the second-largest opera house in all of France. Today, the building stands as a national historic monument, showing a limited series of operatic productions each year."
+    },
+    {
+        "name": "Mont Faron",
+        "coordinates": {
+            "lat": 43.152424,
+            "lng": 5.941975
+        },
+        "contentId": "mont-faron",
+        "country": "France",
+        "category": "Sights: Landmarks",
+        "openingHours": "24/7",
+        "price": "Cable car €7.30",
+        "description": "This giant mountain stands nearly 580m high, and looms over the city of Toulon below it. At its highest peak, you'll find a wide array of activities, from a zoo to a café, to a memorial dedicated to the 1944 Allied landings in Provence. An old-timey cable car saves visitors from another excruciatingly steep mountain hike, and operates daily to lift visitors up and down this giant beast of a natural wonder. Spend a few perfect hours at Mont Faron, or a languorous, revitalizing day. A natural escape from the bustling city below it, Mount Faron offers a unique experience on the Mediterranean that is often only marked by beaches."
+    },
+    {
+        "name": "Toulon Harbor",
+        "coordinates": {
+            "lat": 43.120208,
+            "lng": 5.931446
+        },
+        "contentId": "toulon-harbor",
+        "country": "France",
+        "category": "Sights: Landmarks",
+        "openingHours": "Tuesday-Sunday 10AM-12PM, 2PM-6PM",
+        "price": "Free",
+        "description": "Boats, cruise ships, and yachts, oh my! The Toulon Harbor teems with money and lavishness. This boat yard houses some of the largest ships docked in the Mediterranean, short of those in Cannes. Here, you'll truly see what makes Toulon a port city, as a sea of ships span out on the actual sealine in front of you. The streets lining the harbor brim full of shops, restaurants, and even museums, attracting tourists from all over Europe. Spend an afternoon here sitting by the docks, sipping a Spritz, and fantasizing about riding your own boat to Toulon and parking it in the luxurious port in front of you."
+    },
+    {
+        "name": "Hotel des Arts",
+        "coordinates": {
+            "lat": 43.125289,
+            "lng": 5.929257
+        },
+        "contentId": "hotel-des-arts",
+        "country": "France",
+        "category": "Sights: Museums",
+        "openingHours": "Tuesday-Sunday 10AM-6PM",
+        "price": "Free",
+        "description": "One thing is certain, a trip to the Mediterranean Center of Art will trap even the closest of friend groups into heated arguments about whether or not photography is just as intense an art form as the works of Da Vinci or Picasso. This art museum in the center of Toulon's Old Town features extremely contemporary art (read: a bit weird). In this white-walled, entirely marble museum, you can explore high-contrast, bright exhibits. On our visit, the display was incredibly nostalgia-inducing, presenting America in the 1980s. But, along with their rotating exhibits, the Mediterranean Center of Arts curates education-based rooms with plenty of books to read and comfy chairs to lounge in, along with one totally blacked-out theater viewing room. Just be careful not to bump into anything too expensive!"
+    },
+    {
+        "name": "Museum of the French Navy",
+        "coordinates": {
+            "lat": 43.121897,
+            "lng": 5.928382
+        },
+        "contentId": "museum-of-the-french-navy",
+        "country": "France",
+        "category": "Sights: Museums",
+        "openingHours": "Wednesday-Monday 10AM-6PM",
+        "price": "Free",
+        "description": "Aye, Aye Captain. Sure, working for the French Navy doesn't seem nearly as fun at this museum as our mornings chowing down on Captain Crunch and watching Spongebob Squarepants. But, this museum offers a real and exciting insight into the history of the French Navy. The museum sits right on the Port of Toulon, and right outside you can see French Navy Seamen (and women!) doing the exact jobs the museum depicts from the earliest centuries of seamanship."
+    },
+    {
+        "name": "Jardin d'Acclimatation du Mourillon",
+        "coordinates": {
+            "lat": 43.10859,
+            "lng": 5.946177
+        },
+        "contentId": "jardin-dacclimatation-du-mourillon",
+        "country": "France",
+        "category": "Sights: Outdoors",
+        "openingHours": "Daily 9AM-7PM",
+        "price": "Free",
+        "description": "Unfortunately, Leslie Knope would be ashamed by what seems to pass as a garden here in Toulon. This 'garden' is much less of a place to stop and smell the roses, and much more of one to take in palm trees and an expanse of green grass. Now, don't get us wrong, even though flowers don't teem in this garden, it's still the perfect place to take a picnic, do some morning yoga, or even to sunbathe. After weeks and weeks in massive French cities without green spaces, the Jardin d'Acclimatation du Mourillon proves that grass can, indeed, grow in France, and definitely sprouts greener than the city that sits on the other side of it."
+    },
+    {
+        "name": "Plages du Mourillon",
+        "coordinates": {
+            "lat": 43.107495,
+            "lng": 5.943377
+        },
+        "contentId": "plages-du-mourillon",
+        "country": "France",
+        "category": "Sights: Outdoors",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "Remember that waterpark from your childhood that kept a little protected 'beach' for the kiddos? This is that beach. This small, protected cove offers a beach perfect for swimming, with few waves and a rock-less shore. The sandy, tan beach spreads out for a few kilometers, and on it you'll find brightly colored umbrellas, large beach towels, and little shops selling everything from crêpes and ice cream to paddle board rentals. A relaxing, family-oriented beach, this place is perfect for stretching out to build your summer tan, opening up that book that's been sitting in the bottom of your backpack, or just watching the world go by as dogs and small kids run around you."
+    },
+    {
+        "name": "Feel Food Toulon",
+        "coordinates": {
+            "lat": 43.123694,
+            "lng": 5.931554
+        },
+        "contentId": "feel-food-toulon",
+        "country": "France",
+        "category": "Food",
+        "openingHours": "Tuesday-Saturday 10AM-12AM",
+        "price": "Plates from €12",
+        "description": "Visitors to Toulon really feel the food at Feel Food Toulon. This place puts the 'hidden' in hidden gem, as it sits on a small, narrow alley that pedestrians frequently miss during their time in Toulon. Serving up feel-good foods that both satiate taste buds and keep waistlines happy, Feel Food Toulon prides itself on churning out tasty, healthy options, sure to fill the daily fruits and veggies requirement for any weary traveler. If you're unsure of what to try here, give their freshly-squeezed grapefruit juice and yogurt parfaits a spin. And, while you're at it, take some of these delicious eats back to the hostel with their to-go option!"
+    },
+    {
+        "name": "Le Terminus",
+        "coordinates": {
+            "lat": 43.127692,
+            "lng": 5.929691
+        },
+        "contentId": "le-terminus",
+        "country": "France",
+        "category": "Food",
+        "openingHours": "Daily 7AM-12AM",
+        "price": "Breakfast from €5, lunch from €10",
+        "description": "There's a time machine on the corner of Boulevard de lessé. Be prepared to travel back to 1940's New York City at Le Terminus, which seems to be open nearly 24/7. Centered right outside the train station, Le Terminus welcomes visitors with a menu that shows no belief in the idea that breakfast or lunch can only be served during a certain time of day. With full, floor-to-ceiling windows, red and white checkered tablecloths, and a full red bar complete with neon signage, you're sure to be a little surprised by what may very well be the only true diner in France."
+    }
+]
