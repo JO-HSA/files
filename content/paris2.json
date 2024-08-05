@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Avenue des Champs Élysées",
+        "coordinates": {
+            "lat": 48.87275048826313,
+            "lng": 2.29823027411456
+        },
+        "contentId": "avenue-des-champs-elysees",
+        "category": "Sights: Culture",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "This quintessential Parisian avenue began as an extension of the Tuileries Garden, but since the eighteenth century, it has been the fashionable street for strolling, seeing, and being seen. Stretching in a majestic line between the Place de la Concorde and the Arc de Triomphe, this long row of fashion boutiques, upscale restaurants, and famous bakeries has become the international symbol of French high culture, immortalized musically by Joe Dassin's \"Les Champs-Elysée,\" a song we found ourselves humming for our entire time in Paris. Events such as the annual Bastille Day parade and the final stage of the Tour de France draw massive crowds to the wide sidewalks, but thousands of people can be found perusing the shops every day of the week."
+    },
+    {
+        "name": "Buttes Aux Cailles",
+        "coordinates": {
+            "lat": 48.82777027380386,
+            "lng": 2.35031497777707
+        },
+        "contentId": "buttes-aux-cailles",
+        "category": "Sights: Culture",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "Stepping out of the métro at Place d'Italie, you're acutely aware that you're in the center of modern France. A huge, glass-walled shopping center sits at your right, and cars whizz around the wide rotary. But walk 10 minutes south and up the winding cobblestone streets of the Butte aux Cailles district, and you'll find yourself in an ancient neighborhood that feels more like a tiny village in the Alps than the heart of Paris. With many buzzing cafés, bars, and restaurants lining its main street of low, old buildings, the neighborhood is energetic at all hours of the day, many of the patrons calling bartenders by name like they've been drinking there for years. But to remind you that you're in a culturally-diverse city, the neighborhood also boasts one of the most eclectic street art scenes in Paris."
+    },
+    {
+        "name": "Galeries Lafayette",
+        "coordinates": {
+            "lat": 48.87361644132836,
+            "lng": 2.3321141975962285
+        },
+        "contentId": "galeries-lafayette",
+        "category": "Sights: Culture",
+        "openingHours": "Monday-Saturday 9:30AM-8:30PM",
+        "admission": "Vary, but likely beyond your budget.",
+        "description": "Do you ever get frustrated that your mink scarf is no longer in season? Do you hate it when your Prada boots get a little scuffed? Do you have a deep, overwhelming desire to sink your teeth into and suck the blood from the bodies of the working class? No? Well, then, you won't have much in common with many of the shoppers lurking in the designer racks at Galeries Lafayette, Paris's most famous department store. Visitors flock by the busload to throw euros at shoes, bags, suits, perfumes, and just about anything that will scream, \"My parents own a boat.\" But there's lots to see even if you're not being crushed by the weight of your expendable income. It's sort of cool to find out just which long-existing fashion designers will decide to make hip, or just how much one can charge a fool for a plain gray sweat-suit."
+    },
+    {
+        "name": "Marché aux Puces de Saint-Ouen",
+        "coordinates": {
+            "lat": 48.902736136122286,
+            "lng": 2.3410874103451373
+        },
+        "contentId": "marche-aux-puces-de-saint-ouen",
+        "category": "Sights: Culture",
+        "openingHours": "Monday 11AM-5PM, Saturday-Sunday 10AM-5:30PM",
+        "admission": "Free",
+        "description": "When we travel, certain needs arise. We forget a toothbrush, a map, or sometimes, our third pair of Gucci flip flops. In Paris, the best place to pick up all those little things that slipped your mind is the Marché Aux Puces. Sitting just outside the city limits in neighboring Saint-Ouen, the vast outdoor marketplace is touted as the largest antiques market in the world- but that description really undersells the bric-a-brac you can buy in its over 1,700 stalls. 1813 original marble busts? Check. Garden gnomes giving you the finger? Check. One thousand varieties of handmade Supreme shirt fabrications? Check. Mostly the last one. Although most of what you'll walk through is remarkably creative takes on fake designer clothing, don't be surprised to find a boy in a newsboy cap and suspenders around the next corner yelling \"R2D2 coffee tables! Get your R2D2 coffee tables here!\" In the bizarre variety show you'll find in its endless maze of stalls, the Marché aux Puces de Saint-Ouen is the perfect place to escape the energy of the city to an even greater madness."
+    },
+    {
+        "name": "Place de la Bastille",
+        "coordinates": {
+            "lat": 48.85251670636222,
+            "lng": 2.3693631939650954
+        },
+        "contentId": "place-de-la-bastille",
+        "category": "Sights: Culture",
+        "openingHours": "24/7",
+        "admission": "Vary",
+        "description": "While the storming of the Bastille prison by French revolutionaries in 1789 was a rather grim and violent affair, the area has really lightened its tone since the destruction of the dungeon that made it famous. Adjacent to the enormous column marking the space of the former jail, the Bastille neighborhood boasts the rowdiest, loudest, most eclectic row of bars in Paris. With a heart at the almost all-nightlife Rue de Lappe, this quarter stretches out north from the main square toward the Canal St. Martin. If you can't see the bars on a cloudy night don't worry-you'll be able to hear no problem. And if you're looking to foment another revolution this is the place to start; history is on your side and the masses are hot and ready."
+    },
+    {
+        "name": "Place du Tertre",
+        "coordinates": {
+            "lat": 48.88650125917864,
+            "lng": 2.3408037706846097
+        },
+        "contentId": "place-du-tertre",
+        "category": "Sights: Culture",
+        "openingHours": "24/7",
+        "admission": "Vary",
+        "description": "In the heart of the neighborhood where iconic artists like Pablo Picasso, Vincent Van Gogh, Pierre-Auguste Renoir and many others once worked, this cobblestone square in Montmartre now houses a collection of artists vending their work to the public. While many of the works on sale don't match the innovation of the local art scene's founders-most include Paris landmarks or caricatures of tourists-the square is a great spot to hang out and observe the act of creation in progress all the same. You might not pick up a Van Gogh, but who knows, maybe one of a caricaturists' portraits will end up in the Pompidou next year."
+    },
+    {
+        "name": "L'Arc de Triomphe",
+        "coordinates": {
+            "lat": 48.87375641714143,
+            "lng": 2.2950596863485075
+        },
+        "contentId": "larc-de-triomphe",
+        "category": "Sights: Landmarks",
+        "openingHours": "Daily 10AM-11PM",
+        "admission": "Admission €12",
+        "description": "Assuming you played Little League, you are probably familiar with the concept that when you win something, you get a trophy. Usually it's a plastic statue in some sort of athletic stance, but when it's Napoleon building a trophy for himself, you get a 50-meter high tribute to military domination. LArc de Triomphe celebrates the conquests of Napoleon's Grande Armée, and has been the site of victorious military processions ever since, marched around by both the German and French during World War II. Underneath the Arch, the tomb of the unknown soldier reminds us of the price of militarism and massive celebrations of national pride. But the top of the arch has one of the best views in Paris, so enjoy a beautiful sunset while you reflect on centuries of violence."
+    },
+    {
+        "name": "Bibliothèque Nationale de France",
+        "coordinates": {
+            "lat": 48.8335440778539,
+            "lng": 2.3757645599844976
+        },
+        "contentId": "bibliotheque-nationale-de-france",
+        "category": "Sights: Landmarks",
+        "openingHours": "Tuesday-Saturday 9AM-8PM",
+        "admission": "Free",
+        "description": "While most of us think of libraries as old, dusty, and full of creaky wooden armchairs and octogenarians, the Bibliotheque Nationale de France is decidedly not your grandmother's library. Designed by architect Dominique Perrault, the building is a gleaming modern structure that emphasizes the importance of light and open space in an age when books seem to be dying off. Instead of sitting in darkened stacks, you are able to find the books you need with ease, thanks to a bright, well-organized, and airy space. If you can't find what you need, grab a drink from the café, or just gaze out the window at the spectacular view of the River Seine."
+    },
+    {
+        "name": "Musée d'Orsay",
+        "coordinates": {
+            "lat": 48.86008726869527,
+            "lng": 2.326501274105191
+        },
+        "contentId": "musee-dorsay",
+        "category": "Sights: Museums",
+        "openingHours": "Tuesday-Sunday 9:30AM-6PM",
+        "admission": "Admission €16",
+        "description": "This former railway station is one of the most beautiful museums in Paris, built on the bank of the Seine in the heart of the city. The museum houses one of the finest collections of French art from the mid-19th century, including masterpieces by Impressionist and Post-Impressionist painters like Monet, Van Gogh, and Degas. Whether you're an art enthusiast or just someone who enjoys beautiful architecture, the Musée d'Orsay's grand spaces and stunning artworks are sure to impress. Don't miss the chance to admire the view from the museum's upper floors, where you'll see Paris from a whole new perspective."
+    },
+    {
+        "name": "Palais Garnier",
+        "coordinates": {
+            "lat": 48.87199166452943,
+            "lng": 2.331855482282296
+        },
+        "contentId": "palais-garnier",
+        "category": "Sights: Landmarks",
+        "openingHours": "Daily 10AM-5PM",
+        "admission": "Admission €14",
+        "description": "Home to the Paris Opera, the Palais Garnier is one of the most famous opera houses in the world, renowned for its opulent architecture and grandeur. Designed by Charles Garnier, the building is an architectural masterpiece, featuring a stunning façade, ornate interiors, and an impressive chandelier. A tour of the Palais Garnier will take you through its lavish foyers, grand staircase, and the stunning auditorium. The opulence of the Palais Garnier reflects the splendor of Parisian culture and provides a glimpse into the city's rich artistic heritage. Be sure to catch a performance or tour the building to experience its beauty firsthand."
+    },
+    {
+        "name": "Mundolingua: Musée des Langues",
+        "coordinates": [48.8500995435415, 2.334682093205184],
+        "contentId": "mundolingua-musee-des-langues",
+        "openingHours": "Daily 10AM-7PM",
+        "category": "Sights: Museums",
+        "description": "Paris is an endless labyrinth where every street corner, steep staircase, and alleyway holds a new surprise. Usually that surprise is a weird restaurant, an ancient store, or yet another Really Big Church™\". Yet in this alley in the Latin Quarter, that surprise is a museum. Mundolingua feels like the inside of eccentric uncle's Brooklyn apartment, with a wild array of artifacts and information related to language packed tightly into three floors of dense material that somehow makes perfect sense. Within the collection is a scale replica of the Rosetta Stone, an enormous array of language-related DVD's you can watch in-museum, and an original enigma machine. Although the museum has a specific subject, roving around the homey space, talking to the friendly proprietor, and learning a ton about the development of language Is one of the most magical journeys of discovery in Paris.",
+        "price": "Reduced admission €5"
+    },
+    {
+        "name": "Musée de Picasso",
+        "coordinates": [48.85966543783469, 2.3626132899293597],
+        "contentId": "musee-de-picasso",
+        "openingHours": "Tuesday-Friday 10:30AM-6PM, Saturday-Sunday 9:30AM-6PM",
+        "category": "Sights: Museums",
+        "description": "Almost universally recognized as the most famous figure in modern art, Pablo Picasso has people studying almost every aspect of his life, from his evolution into the \"blue period,\" to the underwear he wore while painting (photo evidence on the museum walls). The Musée de Picasso crafts a narrative of the artist's entire life, focusing as much on his artistic influences and personal affairs as it does on his work itself. With this personal focus, it's disappointing to see no mention of his status as one of the most notoriously domineering misogynists of the twentieth century. With this abusive history in mind, his grotesque, deconstructed representations of women begin to look a lot more ominous. all the same, viewing his gruondbreaking works in their historical context is a fascinating exploration of how creativity mixes with power.",
+        "price": "Admission €15"
+    },
+    {
+        "name": "Musée du Louvre",
+        "coordinates": [48.86060479508331, 2.3376413616931053],
+        "contentId": "musee-du-louvre",
+        "openingHours": "Monday 9AM-6PM, Wednesday 9AM-9:45PM, Thursday 9AM-6PM, Friday 9AM-9:45PM, Saturday-Sunday 9AM-6PM",
+        "category": "Sights: Museums",
+        "description": "The Louvre. Oh, you've heard of it? Big glass pyramids, that one lady that doesn't smile with her teeth, tens of thousands of wide-eyed, easily confused tourists? We're guessing you have the basic info down, so here are some insider tips. Go in the morning or buy a Paris museum pass ahead of time to escape the lines. When observing the famous sculpture Winger Liberty, stand on the stairs from a three quarters angle on the left, the vantage point from which the artists originally intended it to be viewed. Avoid the Mona Lisa and the Italian Painters section like the plague if you don't like crowds. Plan ahead: the largest museum in the world can be overwhelming if you don't do your research. Unless, of course, you're just there to see our pal Mona.",
+        "price": "Admission €15"
+    },
+    {
+        "name": "Musée du Quai Branly-Jacques Chirac",
+        "coordinates": [48.86088457312404, 2.297895481084755],
+        "contentId": "musee-du-quai-branly-jacques-chirac",
+        "openingHours": "Sunday, Tuesday-Wednesday 11AM-7PM, Thursday-Saturday 11AM-9PM",
+        "category": "Sights: Museums",
+        "description": "What do Yemeni feast dresses, Polynesian canoes, and West African ritual masks have in common? They were all snatched from other cultures by French colonizers and placed in the Musée du Quai Branly. In all fairness, the museum has made a reasonable effort to return objects of religious or cultural significance to their countries of origin in the past few years, and the extensive galleries of cultural artifacts now have the stated purpose of recognizing the role of indigenous art in our universal heritage. A tour through the museum is a thrilling exploration of international and historic art. Be sure to check out the special exhibition that takes up almost half of the museum- this year's exhibit on Oceania includes a fascinating examination of how Indigenous culture influenced and reacted to modern art.",
+        "price": "Admission €10"
+    },
+    {
+        "name": "Musée d'Orsay",
+        "coordinates": [48.85994515566243, 2.326564062299198],
+        "contentId": "musee-dorsay",
+        "openingHours": "Tuesday-Wednesday 9:30AM-6PM, Thursday, Saturday, Sunday 9:30AM-6PM",
+        "category": "Sights: Museums",
+        "description": "Housed in a former train station, the Musée d'Orsay takes advantage of a cavernous main hall to showcase groundbreaking nineteenth century works of art in all the majesty they deserve. The enormous former platform of the station features the central sculpture gallery, where works by Rodin, Pompon, and others are highlighted as centerpieces of the enormous space. On its upper floors, the museum holds the largest collection of impressionist masterpieces in the world, bombarding you with so much Degas, Monet, Manet, Renoir, Van Gogh etc. etc. that you begin seeing the world in blurry, flowing brushstrokes. With all the clout of the Louvre but infinitely more manageable crowds, the Musée d'Orsay, might be the best all-encompassing art experience you can find in the city.",
+        "price": "Admission €14"
+    },
+    {
+        "name": "Parc des Buttes Chaumont",
+        "coordinates": [48.880946114836966, 2.3826581617998945],
+        "contentId": "parc-des-buttes-chaumont",
+        "openingHours": "Daily 7AM-10PM",
+        "category": "Sights: Outdoors",
+        "description": "Much of the 19th arrondissement feels like the most modern part of Paris the buildings are tall, concrete, and brutalesque, and there is hardly a classic French façade in sight. But walk through the gates of the Parc des Buttes Chaumont and you'll find yourself instantly transported from industrial Paris to the heart of middle earth. The flat landscape turns into steep, rolling hills, tiny paths are hidden in the woods leading to caves and waterfalls, and a clifftop castle overlooks a picturesque lake in the middle of it all. On a weekend night, thousands of Parisians flock to picnic on the park, dispensing with the prudishness of the city's manicured gardens to play soccer on the grass, drink wine, and make out on sprawling picnic blankets. At sunset the hills promise hundreds of contrasting stunning views of the city. There's truly no better place in the city to while away a summer afternoon.",
+        "price": "Free"
+    },
+    {
+        "name": "Bois de Boulogne",
+        "coordinates": [48.862074398082264, 2.249166067553534],
+        "contentId": "bois-de-boulogne",
+        "openingHours": "24/7",
+        "category": "Sights: Outdoors",
+        "description": "Just a 15 minute walk from the Avenue des Champs Élysées, the Bois de Boulogne is a sprawling forest neighboring the heart of the city, containing beautiful lakes, winding forest paths, wide meadows, the Roland Garros tennis stadium (home of the French open), a zoo, and even a horse racing arena. At two and a half times the size of Central Park, the Bois de Boulogne would take weeks to understand fully, and even then you might be surprised to find what's hidden down a narrow path. Certain areas are hotspots for, um, solicitors, and you should be prepared to encounter every profession while out for a stroll. Just be sure to get out of the park before dark; while, like the rest of the Paris, the forest is fairly safe, it can be a center of illegal activity at night, and you'll want to hightail it out of there lest you wish to participate yourself.",
+        "price": "Free"
+    },
+    {
+        "name": "Bois de Vincennes",
+        "coordinates": [48.82826816418603, 2.4331203404007953],
+        "contentId": "bois-de-vincennes",
+        "openingHours": "24/7",
+        "category": "Sights: Outdoors",
+        "description": "In an area that the French kings once carefully guarded as their personal hunting grounds, the Bois de Vincennes is now a vast forest and public park, providing a seemingly endless area for exploration just on the outskirts of Paris. Along with the Bois de Boulogne, the Bois de Vincennes is a perfect oasis for those wanting to escape the hustle and bustle of the city, particularly for those who want to escape it via a bike or boat. It contains a large lake with pedal boats for rent, a zoo, a garden, a modern art museum, and a botanic garden. Check out the Parc Floral de Paris for a little horticultural exploration; the botanical collection is a great place to get lost in for a few hours. Not only can you spend a whole day in the forest, but you can come back for multiple visits without seeing the same thing twice.",
+        "price": "Free"
+    },
+    {
+        "name": "Sainte-Chapelle",
+        "coordinates": [48.85546959816857, 2.3452824884033586],
+        "contentId": "sainte-chapelle",
+        "openingHours": "Daily 9AM-7PM",
+        "category": "Sights: Historical",
+        "description": "It's possible that you haven't heard of Sainte-Chapelle, but you might recognize the gigantic stained glass windows if you've ever seen a history book about French royalty. Built as a repository for the Crown of Thorns, the Sainte-Chapelle is a masterpiece of gothic architecture. Each of the chapel's 15 stained glass windows depicts stories from the Old and New Testaments in vividly colored, intricately detailed glass. The chapel was built under the reign of Louis IX in the 13th century, and was later used to house the French royal family. It remains one of the most awe-inspiring experiences you can have in Paris, and the intricate details of its glass windows make for one of the most captivating religious structures in the world. Make sure you check it out during the day so that the sunlight can illuminate the colors for a truly mesmerizing experience.",
+        "price": "Admission €10"
+    },
+    {
+        "name": "Panthéon",
+        "coordinates": [48.84621541432721, 2.346665065650575],
+        "contentId": "pantheon",
+        "openingHours": "Monday-Sunday 10AM-6PM",
+        "category": "Sights: Historical",
+        "description": "Originally designed as a church and built in the late 18th century, the Panthéon is now a mausoleum for some of France's most esteemed citizens, including Voltaire, Rousseau, and Victor Hugo. The neoclassical structure is built to resemble an ancient Greek temple and boasts an enormous dome with a panoramic view of the city. Beneath its dome, the crypt is the final resting place of many famous French figures, and the interior features impressive sculptures, murals, and an intriguing gallery. The Panthéon is not only a monument to French history and culture but also offers stunning views of Paris from its dome. Take a walk up the steps to the top of the dome for an exceptional view of the city and to see one of Paris' most iconic landmarks from a new perspective.",
+        "price": "Admission €11"
+    },
+    {
+        "name": "Musée Carnavalet",
+        "coordinates": [48.86120857085674, 2.3675245294174207],
+        "contentId": "musee-carnavalet",
+        "openingHours": "Tuesday-Sunday 10AM-6PM",
+        "category": "Sights: Museums",
+        "description": "Once a hotel, the Musée Carnavalet was transformed into a museum dedicated to the history of Paris in 1880. Within its 140 rooms, you'll find an array of artifacts that bring the city's storied past to life. From the French Revolution to the Belle Époque, the museum covers a broad range of historical periods and includes paintings, sculptures, and everyday objects. The museum's intimate setting allows for a personal and engaging experience, and its beautiful gardens provide a lovely spot for a rest. Located in the Marais district, it offers a fascinating glimpse into Parisian life across centuries, and it's a great way to deepen your understanding of the city's rich history.",
+        "price": "Admission Free"
+    },
+    {
+        "name": "Hôtel de Ville",
+        "coordinates": [48.85593689403241, 2.357287415490635],
+        "contentId": "hotel-de-ville",
+        "openingHours": "Monday-Friday 9AM-6PM",
+        "category": "Sights: Historical",
+        "description": "The Hôtel de Ville, or City Hall, is the center of Parisian government and an architectural gem located in the heart of the city. The building's facade features an elaborate design with numerous statues and intricate details, making it one of the most beautiful municipal buildings in the world. Inside, the Hôtel de Ville is adorned with grand halls and impressive artwork. While you may not be able to tour all of the building, it's worth visiting for its stunning architecture and the chance to witness the grandeur of Parisian civic pride. Occasionally, the Hôtel de Ville also hosts exhibitions and events, adding to its appeal as a cultural destination.",
+        "price": "Free"
+    }
+]
