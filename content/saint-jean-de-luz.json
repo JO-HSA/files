@@ -1,0 +1,54 @@
+[
+    {
+        "name": "L'Église Saint Jean Baptiste",
+        "coordinates": {
+            "lat": 43.38826057111588,
+            "lng": -1.6626984033665793
+        },
+        "contentId": "eglise-saint-jean-baptiste",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 8:30 AM–6:30 PM",
+        "admission": "Free",
+        "description": "Charlie may have gotten a golden ticket, but Saint-Jean-de-Luz has a golden cathedral. While it may seem like one of many Gothic, Catholic churches in France, this church is almost overbearingly covered in gold and filled with precious statues that were the backdrop to Louis XIV and Maria Theresa's imperial wedding. You can thank the Spanish for that because they go all-out on their churches. Even amongst all of this opulence, the church still holds onto its Basque influences, with a sailboat hanging from the ceiling and the rich dark wood adorning the rafters."
+    },
+    {
+        "name": "Maison Louis XIV",
+        "coordinates": {
+            "lat": 43.38764618272073,
+            "lng": -1.6633405446514244
+        },
+        "contentId": "maison-louis-xiv",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 9 AM–8PM",
+        "admission": "Reduced admission €4",
+        "description": "Louis XIV was a very normal man who always slept sitting up out of fear of suffocating under his sheets. Despite his complete twooby-ness, he somehow married a Spanish Empress (something or other to do with ending a war). See, an absolutely normal man in every way. This museum, in the home where Louis XIV signed the Treaty of Pyrenees in 1659, puts this very normal man's life and odd quirks on full display. Take in his incredibly short bed and wonder how his wife slept with him all those years or contemplate how many mannequins they can fit into one museum. Despite the weird vibes Louis XIV will give you from beyond the grave, you're sure to have fun during your visit."
+    },
+    {
+        "name": "La Grande Plage",
+        "coordinates": {
+            "lat": 43.39140629585417,
+            "lng": -1.6613058983698137
+        },
+        "contentId": "la-grande-plage",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "This is not your average beach. With golden sand and a flat topography, this beach's waves are more like pancakes than the roaring ones of its nearby neighbor, Biarritz. For this reason, the coast packs on the people (none of whom seem to have packed on the pounds) in its summer months. A local favorite, Saint-Jean-de-Luzians (did someone say Deleuze?) come to La Grande Plage to sunbathe, paddle board, or swim in a much more laid-back setting. Don't be surprised to find women here topless, men in speedos, and the occasional dog with swim shoes on."
+    },
+    {
+        "name": "La Taverne Basque",
+        "coordinates": {
+            "lat": 43.388176921503565,
+            "lng": -1.6642349539890897
+        },
+        "contentId": "la-taverne-basque",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday 12–2:30 PM, 7–10:30 PM",
+        "price": "Three course meal from €21",
+        "description": "In Basque Country, they do many things well, but the thing they do best is food. In this restaurant, you can savor the best of Basque cuisine by sampling incredible hams, toro soup, and of course, one of their many duck options. The pan-seared fish meal will have you feeling ritzy while the delicious selection of white wines (most of which pair well with seafood!) will have you feeling a bit ditzy. With large windows and wooden walls that give the place an almost modern feel, this is the perfect spot to sit back and indulge in regional cuisine."
+    }
+]
