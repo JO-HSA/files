@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Cathédrale Saint-Nicolas de Nice",
+        "coordinates": {
+            "lat": 43.70384793918544,
+            "lng": 7.253887510814769
+        },
+        "contentId": "cathedrale-saint-nicolas-de-nice",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Daily 9AM-6PM",
+        "price": "Free",
+        "description": "One of the few remaining structures from Byzantine times, the Cathédrale Saint-Nicolas is a marvel of Russian architecture. Candy-style cupolas that could've been uprooted from Saint Petersburg adorn the cathedral, and bells ring every half hour. Do a full 360-degree walk around the grounds to fully examine the buildings blends of red, teal, white, and gold before heading inside to admire the arguably more gorgeous interior. Russian icons and motifs gold decorate the interior. Be sure to cover your knees and shoulders before heading in—even if it is one of those hot summer days. Women should bring some sort of scarf as a head covering if they plan to walk inside the cathedral."
+    },
+    {
+        "name": "Marché aux Fleurs Cours Saleya",
+        "coordinates": {
+            "lat": 43.69558521835322,
+            "lng": 7.274987222206077
+        },
+        "contentId": "marche-aux-fleurs-cours-saleya",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Tuesday-Saturday 6AM-5:30PM, Sunday 6AM-1PM",
+        "price": "Vary",
+        "description": "Make sure to pack those OTCs in your backpack, although we're not sure if any dose of Claritin, Allegra, or Lyrtec can save you from the pollen-fest of the Marché aux Fleurs in Vieux Nice, the city's old quarter. Just steps away from the waterfront, the market is filled with refreshing aromas of every flower imaginable. Besides flowers, the stands offer everything from scented soaps to fresh vegetables to ripe fruits, so you can solve your backpacker BO and get your daily dose of vitamins in one shot."
+    },
+    {
+        "name": "Palais Lascaris",
+        "coordinates": {
+            "lat": 43.69766768894147,
+            "lng": 7.277242721790205
+        },
+        "contentId": "palais-lascaris",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Sunday 10AM-6PM, Monday 10AM-6PM, Tuesday Closed, Wednesday 10AM-6PM, Thursday 10AM-6PM, Friday 10AM-6PM, Saturday 10AM-6PM",
+        "price": "Admission €6",
+        "description": "In the middle of the winding paths of Vieux Nice (Old Nice) lies Palais Lascaris, a seventeenth-century aristocratic building that serves as a musical instrument museum. The unassuming exterior opens up into a lavish and ornate interior, complete with beautifully decorated ceilings and gold-painted walls. Palais Lascaris is home to the second-largest collection of musical instruments in all of France, including cigar box guitars, harps with intricately painted flowers, and more oboes and clarinets than Squidward could ever imagine. Built in the sixteenth century by the family of Jean-Paul Lascaris, the house still has much of the furniture (including paintings of fat men) you'd expect of a French aristocratic family. Word to the wise: don't budget too much time for this museum, as your visit will be under an hour."
+    },
+    {
+        "name": "Place Masséna",
+        "coordinates": {
+            "lat": 43.69721125937988,
+            "lng": 7.270233882384797
+        },
+        "contentId": "place-massena",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "What makes Place Masséna so unmistakable? Is it the red Pompeiian buildings on all its sides? The brightly lit Ferris wheel that can be seen from a mile away? The perhaps overly massive fountain of the Greek god Apollo on the checked black and white patterned pavement? Or maybe it's just the fact that it's smack in the middle of Nice and you'll, without a doubt, walk through it on your way to the waterfront every day. Just after sundown, statues of seven naked men light up on raised poles in every color of the rainbow. It's kind of like a PG Burlesque show that kids can watch, but only adults really understand. Cher and Christina, where you at?"
+    },
+    {
+        "name": "Colline du Château",
+        "coordinates": {
+            "lat": 43.69470338110928,
+            "lng": 7.280543496918912
+        },
+        "contentId": "colline-du-chateau",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Daily 8:30AM-6PM",
+        "price": "Free",
+        "description": "Get in some cardio by climbing this 300-foot hill for an aerial view of the coastline you won't get anywhere else. The site of the former Château de Nice, the Castle Hill today is, for lack of a better word, crumbling, but there is a certain charm in its age that you'll discover as you navigate through the maze of paths, many (many) stairs, and stunning array of greenery. Before making your way to the summit, stop by Bellana Tower for the view of Bay of Angels and you'll forget all about how your thighs hurt from the countless flights of stairs. If cardio isn't your thing, there is an elevator that will take you up to the top, where you'll find a playground, a man-made waterfall, and views of the port."
+    },
+    {
+        "name": "Musée Matisse",
+        "coordinates": {
+            "lat": 43.719646458998064,
+            "lng": 7.27561003791684
+        },
+        "contentId": "musee-matisse",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Daily 10AM-6PM",
+        "price": "Day ticket €10",
+        "description": "It'll take you a bus ride to get here, but once you arrive at this gorgeous red Genoese villa, you won't think twice about the commute. This small museum houses many of Matisse's earliest works, including paintings, sculptures, and cutouts. Although the museum doesn't house his most famous works (you'll find those throughout the rest of France and the world), it does offer an in-depth look into Matisse's life and the time he spent in the French Riviera, most significantly in Nice. When you've finished with your daily dose of artist trivia, take a walk around the surrounding Arènes de Cimiez, the ruins of a Roman amphitheatre."
+    },
+    {
+        "name": "Musée Marc Chagall",
+        "coordinates": {
+            "lat": 43.70947200589405,
+            "lng": 7.270165315402785
+        },
+        "contentId": "musee-marc-chagall",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Monday, Wednesday-Friday 10AM-6PM",
+        "price": "Reduced admission €8",
+        "description": "Even if you know absolutely nothing about art (and would rather be at the beach), you should take some time to swing by the Musée Marc Chagall during your visit to Nice. There's something perfectly soothing about the Modernists collection, which is housed in an expansive, open space with natural light. Fun fact: Chagall claimed that the 'universe of light' is necessary to truly appreciate his artwork, which we don't exactly understand, but, whatever it is, it's working. When you've finished up examining the stained glass windows and 17 biblically inspired paintings, check out the olive garden in which the museum is situated and yeah, sure, then you can make your way back to the beach."
+    },
+    {
+        "name": "Musée d'Art Moderne et d'Art Contemporain de Nice",
+        "coordinates": {
+            "lat": 43.70148111052308,
+            "lng": 7.278335840857417
+        },
+        "contentId": "musee-d-art-moderne-et-d-art-contemporain-de-nice",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Tuesday-Sunday 10AM-6PM",
+        "price": "Admission €10, students free",
+        "description": "So abstract. So confused. Those are perhaps the two thoughts running through our minds as we climbed the many lit-up stairs of MAMAC. The building has magnificently airy galleries featuring everything from American pop art to the work of Yves Klein, painter and performance art pioneer, including his monochrome collection of works solely in the color blue. Some of our favorite pieces include a pile of trash, a pile of rocks, and a pile of boxes all reminders of why our parents are terrified of us suddenly deciding to drop everything and become artists. The museum's true highlight is, however, the top floor, where you can walk around the terrace and admire views of Nice, including the Tete Carée."
+    },
+    {
+        "name": "Plage Publique de Ponchettes",
+        "coordinates": {
+            "lat": 43.69472430378184,
+            "lng": 7.27564839223159
+        },
+        "contentId": "plage-publique-de-ponchettes",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "openingHours": "Daily June-September 9AM-6PM",
+        "price": "Free",
+        "description": "You'll have the perfect beach day at any beach along Promenade des Anglais, but we recommend Ponchettes. This beach boasts a prime location just next to Castle Hill, a military citadel, and in front of Vieux Nice, the city's old quarter. Be warned that the beaches in Nice aren't exactly the sandy seafronts you might have imagined. Instead, you'll be walking through smooth pebbles, which is a surprising relief, since you won't get sand stuck in places sand should never be. Join the sunbathers, beach volleyball players, and swimmers by the shore to enjoy the ever-present sun on the Côte d'Azur."
+    },
+    {
+        "name": "Promenade des Anglais",
+        "coordinates": {
+            "lat": 43.694968022180404,
+            "lng": 7.267647589203881
+        },
+        "contentId": "promenade-des-anglais",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "Usually, Tinder bios that mention long walks on the beach are a red flag. But walks along the Promenade des Anglais are a different story. This expansive stretch of seafront sidewalk, complete with chairs and benches to admire the unbelievably blue water and pebble beaches of the French Riviera, is filled with beach-goers, annoyingly over-eager children, topless women, joggers, and everyone in between. You could easily spend an entire day hopping from beach to beach with sporadic walks on the Promenade des Anglais, but we also recommend renting a bike and using the cyclists' lanes for some exercise down by the sea."
+    },
+    {
+        "name": "Socca d'Or",
+        "coordinates": {
+            "lat": 43.70056735298308,
+            "lng": 7.285640185252844
+        },
+        "contentId": "socca-d-or",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Tuesday 11AM-2PM, 6PM-10PM, Thursday-Saturday 11AM-2PM, 6PM-10PM",
+        "price": "Socca from €3, pizza and salads from €8, beer and wine from €3. Cash only",
+        "description": "An authentic local hang, Socca D'Or is just steps away from the pier and offers a chance to try the Niçoise specialty: socca (duh). Socca, a chickpea pancake from Genoa, can be ordered in a variety of different portions, but we recommend getting a demi-plate along with one of Socca D'Or's large pizzas or salads. This is the kind of spot locals come and order without looking at the menu, so, when in doubt, just order what the person next to you is having. You'll be in luck if it happens to be one of the restaurant's scrumptious desserts, like a caramel crêpe. On particularly hot days, sit inside and admire paintings of the port, or brave the heat and sit on the restaurant's sidewalk terrace for a true Nice experience."
+    },
+    {
+        "name": "Malongo",
+        "coordinates": {
+            "lat": 43.70366369140835,
+            "lng": 7.265861955126194
+        },
+        "contentId": "malongo",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Daily 7:30AM-7PM",
+        "price": "Coffee and tea from €4, pastries from €2",
+        "description": "The stereotypes are true: the French begin their day with an espresso, a croissant, and a cigarette (or four). Malongo is the perfect place to see these stereotypes in action. A decently sized cafe with bright orange walls on Avenue Jean Médicin, Malongo is a necessary stop on your way to the city center. Grab a carefully prepared warm drink and a pastry to kickstart your day. If espresso isn't your thing, the cafe offers a selection of green and black loose teas, cappuccinos, and lattes. Join the locals quickly ordering their petit déjeuner and watch the fast-moving barista prepare everything from coffee to croissants with cheerfulness and ease. Whoever said the French had to be grumpy?"
+    },
+    {
+        "name": "Portovenere",
+        "coordinates": {
+            "lat": 43.696138384621754,
+            "lng": 7.265258666474194
+        },
+        "contentId": "portovenere",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Daily 12PM-3PM, 7PM-11PM",
+        "price": "Entrées from €14",
+        "description": "Nice is just 18 miles from the French-Italian border, which explains why there are so many Italian places. Portovenere, located just a few blocks from the Promenade des Anglais, is perfect for traditional Italian dishes. The restaurant's head chef walks around in colorful, patterned hats and chef pants, making sure all his customers are stuffed and satisfied. Choose your favorite pasta, whether that is spaghetti or tagliatelle, drown it in sauce, and you're home free. If you're feeling something a little heavier, go for a seafood or meat dish—we highly recommend the mussels."
+    },
+    {
+        "name": "La Storia",
+        "coordinates": {
+            "lat": 43.695719706934995,
+            "lng": 7.276069209328253
+        },
+        "contentId": "la-storia",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Daily 9AM-11PM",
+        "price": "Pizzas from €9, pastas from €12, entrées from €9, beer and wine from €7",
+        "description": "The restaurants along Marché aux Fleurs Cours Saleya are tourist traps to be avoided. If you walk to the end of the marketplace, however, you'll stumble upon more reasonably priced restaurants just steps away from the Promenade des Anglais, like La Storia. Serving up Niçoise specialties like socca with parmesan and tomatoes (€8.50), the restaurant has both an indoor and outdoor area with chairs spilling onto the sidewalk. La Storia also offers a large selection of pizzas (€9.50) that can feed two—split with a fellow beach bum to get bang for your buck. Pro-tip: sit outside, but specify if you'd like to be seated away from smoking patrons, as the staff do make an effort to make you comfortable."
+    },
+    {
+        "name": "High Club",
+        "coordinates": {
+            "lat": 43.69406016621864,
+            "lng": 7.255940486091983
+        },
+        "contentId": "high-club",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Thursday-Sunday 11:45PM-5:30AM",
+        "price": "Cover €10, beer and wine from €12, cocktails from €16",
+        "description": "It's no secret that you came to Southern France to party and everyone knows the clubs are exclusive. High Club is no different. With themed nights such as 'We Are High' Saturdays, High Club boasts an energetic club atmosphere with crowds of the young and restless dancing and bumping to the beats pounding through the speakers. Our caveat is that a poorly planned night will result in a high bill. There's a €10 cover, and, once inside, you'll have a Ted and Marshall moment where you realize the drinks cost more than the experience is worth. Stop at pubs before coming to High Club so you only need to worry about the cover."
+    },
+    {
+        "name": "Ma Nolan's Irish Pub",
+        "coordinates": {
+            "lat": 43.69780941636394,
+            "lng": 7.286558105546952
+        },
+        "contentId": "ma-nolans-irish-pub",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Daily 11AM-2AM",
+        "price": "Beer from €4, cocktails from €8, shots from €5",
+        "description": "Ma Nolan's Irish Pub has a cult following and three locations in the Côte d'Azur area: one in Vieux Nice (Old Nice), one near the port, and one in the nearby ritzy city of Cannes. Open practically all day, Ma Nolan's is a lovely place to stop midday for a Guinness before walking through the pollen attack that is the Marché aux Fleurs Cours Saleya or a relaxing setting after a day on the seafront. Take a seat inside or on the bar's sidewalk terrace to enjoy a drink or participate in one of many themed events, like live music nights, quiz nights, and game watch parties. If you're not the biggest sports fan, we recommend picking the team of the person next to you and making a friend over a pint."
+    },
+    {
+        "name": "Waka Bar",
+        "coordinates": {
+            "lat": 43.69514307381351,
+            "lng": 7.276456780998048
+        },
+        "contentId": "waka-bar",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Daily 9:30AM-2AM",
+        "price": "Cocktails from €6, food from €10",
+        "description": "Situated right on the Promenade des Anglais, Waka Bar is the ideal place to come after a long, restful day on the beach if you're looking to liven up your evening. The bar boasts a great menu, complete with a wide selection of cocktails and delicious pub grub choices, and a balcony that overlooks the Bay of Angels. Arrive just before the sun sets and join the crowd bumping to the reggae tunes as you enjoy the unparalleled view of the Côte d'Azur."
+    },
+    {
+        "name": "Wayne's Bar",
+        "coordinates": {
+            "lat": 43.6967598805752,
+            "lng": 7.274611691914311
+        },
+        "contentId": "waynes-bar",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Daily 10AM-2AM",
+        "price": "Shots from €6, cocktails from €8, beers from €3",
+        "description": "We know you didn't come to Nice to go to an English-speaking bar, but Wayne's is an exception to the rule. Arguably the most popular bar in the area, Wayne's has a crowd at all hours for its busy dance floor filled with beach-goers galore. There's no escaping their enthusiastic head-bopping and swaying to live music from British bands and local DJs as you kick back another pint or shot (€6). Perhaps the liveliest part about Wayne's is the irresistible allure of and eventual obligation to dance on top of the sturdy wooden tables after a long day of lying on the pebble beach."
+    }
+]
