@@ -1,0 +1,219 @@
+[
+    {
+        "name": "Les Halles de Paul Bocuse",
+        "coordinates": {
+            "lat": 45.762755457615874,
+            "lng": 4.850182458893981
+        },
+        "contentId": "les-halles-de-paul-bocuse",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Tuesday-Saturday: 7AM-10:30PM",
+        "price": "Vary",
+        "description": "Here lies the answer to all your food cravings. The holy grail of all things food, wine, and spirits, Les Halles de Paul Bocuse has everything you could imagine: boulangers, fromagers, charcutiers, pâtissiers, and so on. Walk through stall after stall of delicious and delectable aromas and pick up some of your favorite French staples. Although there are several restaurants for you to choose from, they might be a little out of your backpacker budget. Instead, stop by in the mid-afternoon and pick up a personalized assortment of fine wines, mouthwatering cheeses, and flavorful sausages to go."
+    },
+    {
+        "name": "Opéra National de Lyon",
+        "coordinates": {
+            "lat": 45.767792807887275,
+            "lng": 4.83626947016705
+        },
+        "contentId": "opera-national-de-lyon",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Ticket Office Tuesday-Saturday: 12PM-7PM",
+        "price": "€5 on sale 1hr before show, else €16",
+        "description": "Situated right behind the grand Hôtel de Ville is the (arguably) grander Opéra National de Lyon, a massive glass-topped building. Throughout the year, the opera hosts dance performances, concerts, plays, special events, and, oh yeah, operas. Tickets don't come cheap for a place as fancy as this, but, if you're lucky, you can snag one for €5 right before the show. Even if you're not seeing a performance, though, you can sit on the steps and listen to musicians perform or watch young teenagers practice dance performances on the opera's steps."
+    },
+    {
+        "name": "Vieux Lyon",
+        "coordinates": {
+            "lat": 45.76277816454775,
+            "lng": 4.827927216118449
+        },
+        "contentId": "vieux-lyon",
+        "category": "Sights: Culture",
+        "country": "France",
+        "price": "Free",
+        "description": "Yeah, you're not in Paris, but that doesn't mean you can't have your perfect Les Mis moment. On the Fourvière side of the Saône lies Vieux Lyon, the Old Town. Walk through its cobblestone streets, which strongly resemble the set of Les Miserables, or, perhaps more accurately, eighteenth-century France. There's even a little dip in the middle of the sidewalk that looks like a 'drainage system' for sewage thrown out the window. It's kind of gross when you think about it...or even if you don't. Flat walking shoes are highly recommended for your stroll through the winding streets lined with bouches authentiques and local boutiques. In the center of Vieux Lyon is the metro station, which gives you full access to funiculars going up Fourvière."
+    },
+    {
+        "name": "La Basilique Notre-Dame de Fourvière",
+        "coordinates": {
+            "lat": 45.762328809829725,
+            "lng": 4.821986114100344
+        },
+        "contentId": "la-basilique-notre-dame-de-fourviere",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 8AM-6PM",
+        "price": "Free",
+        "description": "This nineteenth-century church stands tall atop Fourvière Hill. Decked out in gold and ornate patterns in greens, pinks, and teal blues, the basilica's magnificence commands respect. Check out the detailed paintings of scenes from the Bible, but don't stop there: head down to the crypt, a space just as ornately decorated as the basilica itself. Once you've finished, walk to the back of the building, where you'll find a perch from which you can view the entire city of Lyon and the Saône River. Apart from the views, the basilica bears historical significance, as it is dedicated to the Virgin Mary, who is said to have protected Lyon during the Franco-Prussian wars."
+    },
+    {
+        "name": "Cathèdrale Saint Jean de Baptiste",
+        "coordinates": {
+            "lat": 45.760745430936836,
+            "lng": 4.827247983126193
+        },
+        "contentId": "cathedrale-saint-jean-de-baptiste",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Monday-Friday: 8:15AM-7:45PM, Saturday: 8:15AM-7PM, Sunday: 8AM-7PM",
+        "price": "Free",
+        "description": "In the middle of Vieux Lyon stands the Cathédrale Saint Jean de Baptiste, the seat of the archdiocese in Lyon, considered by some to be the seat of the French church, making it a pretty big deal. The cathedral is a beautiful sandstone color with distinctive red doors, high ceilings, and intricately decorated stained-glass windows. Inside the left nave of the church, check out the horloge astronomique, a clock that mirrors the movement of the stars. The treasury of the church holds artifacts from the Byzantine Empire for your crash course in Lyonnais history. Behind the church is Palais St. Jean, which has a library just in case you're looking for more books about Lyon's ties to Catholicism."
+    },
+    {
+        "name": "Passage Thiaffait",
+        "coordinates": {
+            "lat": 45.7700724467524,
+            "lng": 4.833098324898495
+        },
+        "contentId": "passage-thiaffait",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "price": "Free",
+        "description": "Passage Thiaffait used to be a crime-infested alley, but, today, you need not fear anything so much as a stray cat. Named after Monsieur Thiaffait, the alley, which connects Rue René Leynaud and Rue Burdeau via two white staircases, is lined with chic boutiques, cafes, and artist workshops. Pursue the shops' offerings on your way to lunch in the Croix-Rousse district, but don't budget more than 20-30 minutes for this significant, yet small sight. The surrounding pastel-colored buildings do make for a good Instagram post, though."
+    },
+    {
+        "name": "Place Bellecour",
+        "coordinates": {
+            "lat": 45.75773512666025,
+            "lng": 4.832181253647744
+        },
+        "contentId": "place-bellecour",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "price": "Free",
+        "description": "Place Bellecour holds the title of the largest square in Lyon and the largest pedestrian square in all of Europe. Today, it doesn't seem like much, except for an expanse of Mars-red pavement, a statue of Louis XIV in the middle, a tourist office, and a Ferris wheel for kids and adults who haven't quite grown up. Back in the day, however, the square itself held much more significance: it was the sight of royal parades for the king and executions via the guillotine during the French Revolution. Although the square isn't too spectacular in the daytime, give it another try in the evening when the Ferris wheel lights up in a display of vibrant colors."
+    },
+    {
+        "name": "Musée des Beaux Arts",
+        "coordinates": {
+            "lat": 45.76710127886744,
+            "lng": 4.83361528247905
+        },
+        "contentId": "musee-des-beaux-arts",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Monday: 10AM-6PM, Tuesday: Closed, Wednesday: 10AM-6PM, Thursday: 10AM-6PM, Friday: 10:30AM-6PM, Saturday: 10AM-6PM, Sunday: 10AM-6PM",
+        "price": "Reduced Admission €4",
+        "description": "At last, the chance to hang with our artistically inclined pals: Monet, Picasso, and Gauguin. It feels like centuries since we've last gotten together! Probably because their art is from hundreds of years ago. Man, walking through all these carefully curated wings with art from Impressionists, Modernists, and Renaissance art really takes us back to Monet's fascination with landscapes, that time Pablo discovered Cubism, and Paul's trip to Tahiti that he won't stop painting about! When we're finished with our rendez-vous, we're going to the extensive sculpture hall featuring works by Rodin, as well as the antiques wing with Ancient Egyptian, Greco-Roman, Muslim, and Ottoman relics. The museum also puts on outstanding temporary exhibits, such as the one featuring Mexican artists like Frida Kahlo and Diego Rivera."
+    },
+    {
+        "name": "Lugdunum: Musées Gallo-Romain de Fourvière",
+        "coordinates": {
+            "lat": 45.760405329455416,
+            "lng": 4.820003980210289
+        },
+        "contentId": "lugdunum-musees-gallo-romain-de-fourviere",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Sunday: 10AM–6PM, Monday: Closed, Tuesday: 11AM–6PM, Wednesday: 11AM–6PM, Thursday: 11AM–6PM, Friday: 11AM–6PM, Saturday: 10AM–6PM",
+        "price": "Reduced Admission €2.50",
+        "description": "If we had to name one thing Lyon is proud of, it would have to be its importance during its time as Lugdunum, a city of the Roman Empire founded in 43 BCE. Now, we agree, it's kind of weird to look back fondly on practically being colonized and ruled by an outside power (Stockholm Syndrome, anyone?), but Lugdunum was a powerhouse that laid the groundwork for the city Lyon became. The museum, which details everything about the ancient city—from its religious practices to palace structures to stunning mosaics—is expansive, spanning four descending floors. As cool as all this is, walking between artifact after artifact can get a little dusty and dry. Thankfully, you can actually climb the steps of the Gallo-Roman theatre outside. Just don't fall—it's steep!"
+    },
+    {
+        "name": "Parc des Hauteurs",
+        "coordinates": {
+            "lat": 45.762278646932,
+            "lng": 4.823347367785114
+        },
+        "contentId": "parc-des-hauteurs",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "price": "Free",
+        "description": "Directly meaning 'park of heights,' the Parc des Hauteurs is more a hiking trail than anything else. The park, or trail, rather, connects the top of Fourviére Hill to the cemetery of Loyasse. There's a gold rose petal path that you can follow towards the La Basilique Notre-Dame de Fourviére or explore the rosary garden within the park. We recommend packing a lunch before coming up so that you can enjoy the views of Lyon's orange-tiled rooftops and the Saône River."
+    },
+    {
+        "name": "Parc de la Tête d'Or",
+        "coordinates": {
+            "lat": 45.78459215233718,
+            "lng": 4.85159437791699
+        },
+        "contentId": "parc-de-la-tete-d-or",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 6:30AM-10:30PM",
+        "price": "Free",
+        "description": "On the east side of the Rhône lies a massive green space in the middle of Lyon's urban landscape: Parc de la Tête d'Or. Comparable to New York City's Central Park (although perhaps not as grand or expansive), the 117-hectare plot has everything you could want in a day outdoors: a lake filled with geese, a rose garden, and a zoo. For those of us that prefer the wonders of the great outdoors, the northern side of the park houses the Musée d'Art Contemporain. But, honestly, why wouldn't you appreciate a leisurely stroll in the greenery for a respite from the chaos of the otherwise bustling city?"
+    },
+    {
+        "name": "L'Auberge des Canuts",
+        "coordinates": {
+            "lat": 45.76126315348696,
+            "lng": 4.826676637130541
+        },
+        "contentId": "lauberge-des-canuts",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 8AM-12AM",
+        "price": "Entrees from €14, card minimum €20",
+        "description": "If you're looking for a taste of bouchons Lyonnais on a budget, you've hit the spot. Located just steps away from the Cathédrale Saint-Jean de Baptiste with walls reminiscent of the cobblestone streets of Vieux Lyon, L'Auberge des Canuts serves traditional dishes such as pork sausages in a red wine sauce on its convenient prix-fixe menu (€15.90). The staff only begins to prepare your next course once you've finished the one in front of you, so take your time. They're in no rush and you shouldn't be either. When you finally make it to dessert after savoring pork sausages in red wine sauce, and your server asks you if you want your fromage blanc with fruit sauce, say oui without hesitation. It's truly a treat."
+    },
+    {
+        "name": "Cafe 203",
+        "coordinates": {
+            "lat": 45.76685055215204,
+            "lng": 4.836946029970151
+        },
+        "contentId": "cafe-203",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 12PM-1AM",
+        "price": "Entrees from €13, beer and wine from €2.50",
+        "description": "If you're looking for a place for the perfect rendez-vous, look no further than Cafe 203. This bustling restaurant, although not an official bouchon, serves up traditional Lyonnaise dishes and then some. If you've had one too many sausages on your trip thus far, don't shy away from ordering one of Cafe 203's burgers or risottos for a good dose of familiarity. While you munch on your meal, in either the non-smoking or smoking area of the restaurant, look around at the tavern-like decor and listen to the friendly conversations of the locals and fellow tourists dining around you."
+    },
+    {
+        "name": "A Chacun sa Tasse",
+        "coordinates": {
+            "lat": 45.76946460884482,
+            "lng": 4.835902942882069
+        },
+        "contentId": "a-chacun-sa-tasse",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Saturday: 8AM-7PM",
+        "price": "Pots of tea from €3.50, Pastries from €2",
+        "description": "For a quick bite or petit déjeuner, swing by this tea shop, located a few blocks away from Place des Terreaux. Decorated in a warm orange with framed paintings hung on the walls, this café offers a wide array of teas, including green teas, black teas, and rooibos. The teas are steeped to perfection before being served. While you wait for your flavorful brew, pick up a French magazine on the café's bookshelves to brush up on your language skills or look smart as you attempt to read a piece on the EU's economic policy. For just €5.50, we were able to get a pot of delectable rose black tea and a plain croissant to start our day off on the right note."
+    },
+    {
+        "name": "Diploid",
+        "coordinates": {
+            "lat": 45.766021277784446,
+            "lng": 4.832377427209968
+        },
+        "contentId": "diploid",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Friday: 9AM-7PM, Saturday: 10AM-7PM, Sunday: 11AM-7PM",
+        "price": "Lunch from €10.50",
+        "description": "An open space just a few blocks away from Place des Terreaux, Diploid is the perfect place to catch your breath with a cup of perfectly roasted coffee or freshly brewed tea. Diploid boasts a bright and welcoming atmosphere complete with calming teal blue walls, lights hanging from the ceiling, and wooden floors. Take your cappuccino with the locals as they work on their laptops using the cafe's free Wi-Fi, or converse with friends as upbeat English indie tunes play in the background. Diploid also offers a lunch menu that changes every now and then. Choose from a sandwich, entrée, or salad of the day and take a seat in the back room to enjoy your meal."
+    },
+    {
+        "name": "The Monkey Club",
+        "coordinates": {
+            "lat": 45.769302519045496,
+            "lng": 4.837260721899728
+        },
+        "contentId": "the-monkey-club",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Tuesday-Wednesday: 6PM-1AM, Thursday: 6PM-1AM, Friday-Saturday: 6PM-3AM, Sunday-Monday: Closed",
+        "price": "Cocktails from €11, shots and beers from €5",
+        "description": "This is the kind of place Don Draper would go for after-work drinks on a particularly stressful day. Or perhaps any day he can find an excuse for a drink, which means every day. Straight out of the set of Mad Men, the Monkey Club features a deep red interior with armchairs and dim lighting to set the mood for recovering from a long day of work. The bar is mostly frequented by locals, who order quality wines or shots that the bar aptly names prescriptions. Sadly, the drinks are relatively pricey, so save this venue for a planned splurge on the town or if you somehow find yourself a job to wine—we mean whine—about."
+    },
+    {
+        "name": "Groom",
+        "coordinates": {
+            "lat": 45.770586310397846,
+            "lng": 4.836937517565066
+        },
+        "contentId": "groom",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Wednesday: 6PM-1AM, Thursday: 6PM-2AM, Friday-Saturday: 6PM-4AM, Sunday-Tuesday: Closed",
+        "price": "Beer and wine from €5, cocktails from €12, empanadas from €4",
+        "description": "Tucked away under Away Hostel and Coffee Shop lies the new, hip kid on the block: Groom. With a dark interior and bright, popping lights—mostly the pink and white variety—Groom boasts a menu full of out-of-the-box cocktails intended to spice up your night. The cocktails, which start at around €12, are pricey, so if you're looking for something more budget-friendly, choose from their selection of beer and wine. Groom also has mocktails for those who want to stay sober, making it a perfect place for all kinds of party animals. And to ensure you party safe, there are empanadas on the menu to make sure those cocktails don't go down alone. Check out their online schedule of events before selecting a night to go—the club frequently hosts lively concerts, often with no cover."
+    }
+]
