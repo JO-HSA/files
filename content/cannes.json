@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Boulevard de la Croisette",
+        "coordinates": {
+            "lat": 43.55137149463589,
+            "lng": 7.017384771847034
+        },
+        "contentId": "boulevard-de-la-croisette",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Shops are definitely over your budget, street free",
+        "description": "What do Ariana Grande, Justin Timberlake, and Beyoncé all have in common? They've definitely strolled down the Boulevard de la Croisette, shopping bags in tow. This designer-store-lined strip rose to fame in its role as the closest thing to a mall that celebrities ever experience, and is a home to top brand names like Dolce & Gabbana and Armani. La Croisette is perhaps one of the only places in the world where department stores staff their own bouncers, and where it feels like just window shopping should come at a price. The road to fame is lined with palm trees, chic restaurants, and only the best brand stores, making La Croisette your best chance at running into the rich and famous while in Cannes."
+    },
+    {
+        "name": "Marche Forville",
+        "coordinates": {
+            "lat": 43.55205947689498,
+            "lng": 7.012033492207332
+        },
+        "contentId": "marche-forville",
+        "category": "Sights: Culture",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 7 AM–1 PM",
+        "price": "Market prices vary, cash only",
+        "description": "Like a young starlet that rose to fame from humble beginnings, Cannes still remembers its humble roots as a fishing village. The Marche Forville pays homage to a bygone era in Cannes, one where fishermen and farmers sold local produce daily at open air markets just like this one, and people haggled over the price of blueberries. The market features wide lanes, and is split into areas based on the produce sold. Here, local cheesemakers churn out the wheels, wine sellers bring their best bottles, and genius chefs dish out the ready-made foods like paella from one giant pot in the center of the mart."
+    },
+    {
+        "name": "Fort Royal & Musèe de la Mer",
+        "coordinates": {
+            "lat": 43.52338898839831,
+            "lng": 7.043905959517646
+        },
+        "contentId": "fort-royal-musee-de-la-mer",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 10 AM–5:45 PM",
+        "price": "Admission €6, students under 26 free",
+        "description": "The ferry ride to Fort Royal is perhaps the cheapest boat ride in all of Cannes, and Fort Royal itself offers some of the cheapest entertainment in the city as well. On the beautiful island of Saint Marguerite, take in panoramic views of the French coast and the Mediterranean, or explore the many landmarks on the island. Take to the Fort Royal and experience the Spanish influence on Cannes, as Spain built the fort in 1635 during its control of the region. Afterwards, adventure to the State Prison, which held infamous criminals like the Man in the Iron Mask. From there, walk to the Musée de la Mer, which exhibits ruins uncovered in the Mediterranean Sea and dives into the island's history as a Roman trading port."
+    },
+    {
+        "name": "Palais des Festivals et des Congrès",
+        "coordinates": {
+            "lat": 43.55077085989245,
+            "lng": 7.017957923826759
+        },
+        "contentId": "palais-des-festivals",
+        "category": "Sights: Landmarks",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 9 AM–7 PM",
+        "price": "Admission €6",
+        "description": "The Cannes Film Festival. Oh, you've heard of it? In May, this glass-faced building glows with the flash of cameras and bright lights as movie projectors and red carpets transform the building for the annual film festival. Here, A-list artists present their newest works and receive criticism from the best names in the business. Designed by architect and visionary Sir Hubert Bennet, this venue hosts the Cannes Lions International Festival of Creativity. During the months between this event and the film festival, visitors can book tours of the site, but must do so in advance online or at the tourist office."
+    },
+    {
+        "name": "Centre d'Art la Malmaison",
+        "coordinates": {
+            "lat": 43.550295411350454,
+            "lng": 7.024860801421856
+        },
+        "contentId": "centre-art-la-malmaison",
+        "category": "Sights: Museums",
+        "country": "France",
+        "price": "Ticket prices vary",
+        "description": "No, you weren't drugged upon entering the Centre d'Art La Malmaison, you've simply stepped into a psychedelic visual experience like no other. This modern museum prides itself on offering exhibits from solely twentieth and twenty-first-century artists, and likes to track down the most intense, boggling designers out there. Recently, they've shown works by the late Niki de Saint Phalle and even Picasso. Having no permanent collection, the museum shows solely rotating selections by prestigious artists from around the globe. But fear not, there's never a chance that you'll end up here with boring exhibits; the Centre d'Art La Malmaison always searches for the wackiest, most questionable works in the art world."
+    },
+    {
+        "name": "Galerie Vieceli",
+        "coordinates": {
+            "lat": 43.55200535415952,
+            "lng": 7.026401458619437
+        },
+        "contentId": "galerie-vieceli",
+        "category": "Sights: Museums",
+        "country": "France",
+        "openingHours": "Tuesday-Saturday: 10 AM–1 PM, 3–7 PM\nSunday-Monday: Closed",
+        "price": "Free",
+        "description": "Ah, darling, it is now time to learn the important difference between a gallery and a museum. The lower class goes to museums to view and experience art, and we, the elite, go to galleries to purchase art. The Galerie Viaceli is much more of a gallery than it is a museum, and upon entering, the staff quickly size ups whether you're there to view the art or to buy it. But, have no fear, once this initial glance-over ends, you're free to view the incredible paintings and sculptures that line the walls of this modern art gallery. Because works are meant to fit nearly anyone's fancy, the place lacks a bit of cohesion, but that just means you're sure to find something you'll love."
+    },
+    {
+        "name": "Plage du Midi",
+        "coordinates": {
+            "lat": 43.548800124906776,
+            "lng": 7.003466423853432
+        },
+        "contentId": "plage-du-midi",
+        "category": "Sights: Outdoors",
+        "country": "France",
+        "openingHours": "24/7",
+        "price": "Free",
+        "description": "If the idea of seeing one more yacht makes your stomach churn, or you can't stand the thought of walking into another store where even breathing costs €20, then the Plage du Midi welcomes you. This lovely beach lies right across from the center of town, and features tan, sandy shores, a long dock, and countless stands serving up crêpes and ice cream. A family beach, the place usually swells with sandcastles, dogs, and little kids learning to swim for the first time, giving the entire place a nostalgic feel. With buoys out in the water for you to sunbathe on after a long swim, and a dock to jump off of, Plage du Midi offers endless options for fun and relaxation."
+    },
+    {
+        "name": "L'Epicurieux",
+        "coordinates": {
+            "lat": 43.55281945187775,
+            "lng": 7.019853685149857
+        },
+        "contentId": "lepicurieux",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Monday-Saturday: 12–3 PM, 7–10 PM\nFriday-Saturday: 7–10:30 PM\nSunday: Closed",
+        "price": "Dinner from €15",
+        "description": "In Cannes, it seems that fine dining comes at a price tag that starts at expensive and goes up from there. Thankfully, that is not the case at L'Epicurieux. This small restaurant in the heart of Cannes serves up incredible dishes, from homemade pasta with truffle sauce to French classics like foie gras. With chic interior design and a wine list longer than the actual menu, this place oozes with a sophisticated, high-class dining feel. But, a true friend of the saying 'champagne taste, beer budget,' you can safely walk away here with a meal for less than €20, unless, of course, you decide to splurge on a dessert, which we highly recommend."
+    },
+    {
+        "name": "Philcat",
+        "coordinates": {
+            "lat": 43.55108219495904,
+            "lng": 7.013781717998972
+        },
+        "contentId": "philcat",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 9 AM–7:30PM",
+        "price": "Sandwiches from €5, card minimum €15",
+        "description": "Philcat is about as confusing as its name. To start, the place scored prime property right along the coast and across from the center of town but manages to stay incredibly affordable. Second, cats are nowhere to be found here, nor a single man named Phil. Regardless, the place holds steady to its values of offering low-cost food in a prime Cannes location. Happily sit back in one of their chairs by the sea and chow down on a filling sandwich, sip a beer, and leave for less than the price of entering a single store on La Croisette. This blue-and-white restaurant cooks up a backpacker's dream on the Mediterranean, all with a friendly smile and incredible views."
+    },
+    {
+        "name": "Quay's Irish Pub",
+        "coordinates": {
+            "lat": 43.54923997497228,
+            "lng": 7.0121914206001685
+        },
+        "contentId": "quays-irish-pub",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 12 PM–2:30 AM",
+        "price": "Beer from €4, shots from €5, card minimum €8",
+        "description": "Quay's Irish Pub is something of a shock upon entering. With its fully wooden floors and ceilings, to its American-dollar-bill-lined walls, to the cacophony of English being spoken inside, you may feel like you stepped away from France entirely and into a British sports bar. At this bar, they serve up well-priced drinks that make it a perfect stop before heading onto the exuberantly-priced nightclubs in Cannes. If you're lucky, you may even visit on a night where they pull out the karaoke machine and spend your evening singing along to \"Don't Stop Believing” and “Piano Man.\""
+    },
+    {
+        "name": "Gotha Club",
+        "coordinates": {
+            "lat": 43.536693556203105,
+            "lng": 7.036736476543906
+        },
+        "contentId": "gotha-club",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 11:30 PM–5 AM",
+        "price": "Cover €15, beer from €16, alcohol from €18, dressy attire required",
+        "description": "The Sperry and salmon-colored-shirt-wearing Hamptons crowd recognizes Gotha Club as one of the best nightclubs in the world. They might not be mistaken, since Gotha Club feels like no other experience. We recommend showing up before 12:30pm. Arrive any later and the bouncers will scrutinize every rag on your body, letting only the finest clad and most sober enter. Once inside though, experience the high life, as VIP lounges line the dance floor and drinks start at €15. Drinking here puts you back a pretty penny, so we recommend imbibing a bit before you get to Gotha Club if you plan on being tipsy. Don't go too hard though, or you risk being coaxed into splitting a €600 bottle of champagne with the son of a French billionaire."
+    }
+]
