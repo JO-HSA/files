@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Cathédrale Notre-Dame des Doms D'Avignon",
+        "coordinates": {
+            "lat": 43.9513015,
+            "lng": 4.8066296
+        },
+        "contentId": "cathedrale-notre-dame-des-doms",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday: 9:45 AM–12:15 PM, 2:30–5:30 PM; Monday-Saturday: 8:30 AM–12 PM, 2:30–5:30 PM",
+        "admission": "Free",
+        "description": "Hey, even churches get a little work done from time to time, and after a face-lift in 2013, this cathedral is in tip-top shape for its close-up. The cathedral underwent a 30-month-long restoration lasting until 2016, the first since its original debut in the year 1838. Inside, you'll find beautiful frescos, and a Romanesque nave decorated in the classic Gothic style of Southern France. High above the city, this chapel offers a beautiful view of the nearby Palais des Papes and historic heart of the city."
+    },
+    {
+        "name": "Église Saint-Agricol",
+        "coordinates": {
+            "lat": 43.9488826,
+            "lng": 4.8037554
+        },
+        "contentId": "eglise-saint-agricol",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday: 9–11 AM; Monday-Saturday: 9 AM–7 PM",
+        "admission": "Free",
+        "description": "The Church of Saint Agricol looks like a nine-year-old with a massive lego kit designed it. Built in the seventh century by the Bishop Saint Agricol himself, this church is considered a historic monument in Avignon. Its square design hides its obviously gothic interior, and the intricate details on the façade of the church's entrance are, alone, worth the trip."
+    },
+    {
+        "name": "Palais des Papes",
+        "coordinates": {
+            "lat": 43.9513015,
+            "lng": 4.8066296
+        },
+        "contentId": "palais-des-papes",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 9 AM–7 PM",
+        "admission": "Reduced Admission €10",
+        "description": "Let's be honest here: the Palais des Papes is probably the only reason you're in Avignon. A visit to the Palais des Papes is simply non-negotiable while in Avignon. This UNESCO World Heritage Site was built in 1335 and is the largest Gothic palace in all of Europe. With over 25 rooms decorated with wall murals and frescoes, this place packs in nearly 650,000 visitors a year. The audio-visual guide that comes with your entrance ticket shows you a revamped version of the faded decor and tells the dramatic history of this site."
+    },
+    {
+        "name": "Avignon City Wall",
+        "coordinates": {
+            "lat": 43.94905090332031,
+            "lng": 4.8058671951293945
+        },
+        "contentId": "avignon-city-wall",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "The city of Avignon is fully enclosed by miles of stone, and we're unsure if that's a local move to keep tourists out or to keep all of the incredible city sights in. Built in the fourteenth century, the wall highlights the importance of fortifications in early French architecture. Some hypothesize that the Romans first constructed a wall here in the first century, but archaeologists have yet to confirm the rumors. Regardless, what makes this wall truly striking is the contrast between the muted stone and vibrant lavender surrounding it."
+    },
+    {
+        "name": "Hôtel de Ville",
+        "coordinates": {
+            "lat": 43.9497294,
+            "lng": 4.8057665
+        },
+        "contentId": "hotel-de-ville",
+        "category": "Sights",
+        "country": "France",
+        "admission": "Free",
+        "description": "The City Hall of Avignon flies the highest density of French flags from its roof of the entire country. Keep an eye out for Hôtel de Ville's adorable clock tower, which will charm your pants off every hour on the hour with a Pixar-like display of cheer and frivolity."
+    },
+    {
+        "name": "Pont D'Avignon",
+        "coordinates": {
+            "lat": 43.95363998413086,
+            "lng": 4.809271812438965
+        },
+        "contentId": "pont-d-avignon",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Reduced Admission €3",
+        "description": "The classic saying, 'we'll cross that bridge when we get to it,' only applies to roughly half of the Pont D'Avignon. This bridge is about as useful as a raft-- massive flooding destroyed nearly half of it hundreds of years ago."
+    },
+    {
+        "name": "Musée Angladon",
+        "coordinates": {
+            "lat": 43.9460946,
+            "lng": 4.8069976
+        },
+        "contentId": "musee-angladon",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday, Tuesday-Saturday: 1–6 PM; Monday: Closed",
+        "admission": "Reduced Admission €6.50",
+        "description": "Musée Angladon features works by Picasso and Van Gogh, among other renowned modern artists. The exhibits line the walls of an exquisite and elaborate home, and the art and house furniture will have you daydreaming of your own personal in-home museum."
+    },
+    {
+        "name": "Musée Calvet",
+        "coordinates": {
+            "lat": 43.9469598,
+            "lng": 4.8033827
+        },
+        "contentId": "musee-calvet",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Monday, Wednesday-Saturday: 10 AM–1 PM, 2–6 PM; Tuesday: Closed",
+        "admission": "Free",
+        "description": "The Musée Calvet features works that span across centuries, styles, and even continents. The museum features paintings, sculptures, and antiquities for a whopping viewing price tag of 'free'."
+    },
+    {
+        "name": "Musée du Petit Palais",
+        "coordinates": {
+            "lat": 44.1344091,
+            "lng": 4.0769695
+        },
+        "contentId": "musee-du-petit-palais",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday, Tuesday-Thursday: 10 AM–6 PM; Friday-Saturday: 10 AM–8 PM; Monday: Closed",
+        "admission": "Reduced Admission €3",
+        "description": "A UNESCO Heritage Museum, the Musée du Petit Palais features over 300 pieces of Italian religious art from the pre-renaissance era. Here you'll find captivating works from Botticelli, Carpaccio, and Giovanni di Paulo."
+    },
+    {
+        "name": "Jardin des Doms",
+        "coordinates": {
+            "lat": 43.9518,
+            "lng": 4.8059
+        },
+        "contentId": "jardin-des-doms",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 7:30 AM–8 PM",
+        "admission": "Free",
+        "description": "Learn the origin of the game, 'Duck, duck, goose!' at the Jardin des Doms. This garden is known for its massive pond. If you're lucky, you'll arrive to find a very full pond in front of you, the perfect place to enjoy an ice cream from the cafe that overlooks the water."
+    },
+    {
+        "name": "Walking path by Promenade du Canal",
+        "coordinates": {
+            "lat": 43.95933983002487,
+            "lng": 4.798614565519932
+        },
+        "contentId": "walking-path-promenade-du-canal",
+        "category": "Sights",
+        "country": "France",
+        "openingHours": "24/7",
+        "admission": "Free",
+        "description": "This 6km long, flat path is perfect for the cardio-freaks among you that are missing their treadmills most right now. Also accepting of bikers and walkers, this path starts at the Promenade du Canal."
+    },
+    {
+        "name": "E.A.T Estaminet Arômes et Tentations",
+        "coordinates": {
+            "lat": 43.9498987,
+            "lng": 4.8038388
+        },
+        "contentId": "eat-estaminet-aromes-et-tentations",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 12–1:45 PM, 7–9:30 PM; Wednesday: Closed",
+        "price": "Entrees from €10, dessert from €6",
+        "description": "With a farm-to-table menu at grocery store-to-hostel prices, you can fill your stomach with delectable vegetables and mouth-watering meaty meals here. This white-walled restaurant features a splash of colorful decor sure to put a smile on your face."
+    },
+    {
+        "name": "Ginette et Marcel",
+        "coordinates": {
+            "lat": 43.944671630859375,
+            "lng": 4.807589054107666
+        },
+        "contentId": "ginette-et-marcel",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 10 AM–10:30 PM",
+        "price": "Tartines from €4.60",
+        "description": "With an incredible array of tartines, or open-faced sandwiches, Ginette et Marcel has given the sandwich a fancy new look. These treats are hearty and delicious, and the old, 1920s vibes of the restaurant give the place a feel that's worth returning to again and again."
+    },
+    {
+        "name": "L'Amista",
+        "coordinates": {
+            "lat": 43.947762,
+            "lng": 4.808512
+        },
+        "contentId": "lamista",
+        "category": "Food",
+        "country": "France",
+        "admission": "Free",
+        "description": "If you find yourself craving a blast back to your childhood, look no further than L'Amista. Their tapas selection seems almost endless, and the most intense of their selections, the cassette de tapas, is a huge box of appetizers that can be wonderfully shared by two people or more."
+    },
+    {
+        "name": "La Sou'pape",
+        "coordinates": {
+            "lat": 43.9517998,
+            "lng": 4.8049466
+        },
+        "contentId": "la-soupape",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday: Closed; Monday-Saturday: 9:30 AM–5:30 PM",
+        "price": "Sandwiches from €5",
+        "description": "Despite its neon green walls and horrendously mismatched purple chairs, this place knows how to design something far more important: good food. This small cafe serves up incredible lunches and breakfasts sure to fill any weary traveler's stomach-- without emptying their wallet."
+    },
+    {
+        "name": "Le Vintage",
+        "coordinates": {
+            "lat": 43.9478038,
+            "lng": 4.8067049
+        },
+        "contentId": "le-vintage",
+        "category": "Food",
+        "country": "France",
+        "openingHours": "Sunday-Thursday: 12–2 PM, 7–10 PM; Friday-Saturday: 12–2:30 PM, 7–10:30 PM",
+        "price": "Meals from €18",
+        "description": "Get ready to experience the finest dining Avignon offers budget travels. Even if you come for dinner, the small dent in your budget will still be worth it, as this restaurant offers only the highest quality modern and regional French cuisine."
+    },
+    {
+        "name": "H036 Bar",
+        "coordinates": {
+            "lat": 43.9496,
+            "lng": 4.8055
+        },
+        "contentId": "h036-bar",
+        "category": "Nightlife",
+        "country": "France",
+        "description": "Lively, international, and English speaking crowds fill this bar nightly. Challenge your new mates to a heated game of pool, or invest in a late-night game of Monopoly from the bar's expansive board game collection."
+    },
+    {
+        "name": "Lalogène",
+        "coordinates": {
+            "lat": 43.9486,
+            "lng": 4.8059
+        },
+        "contentId": "lalogene",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday: 8:30 AM–1 AM; Monday-Saturday: 7:30 AM–1 AM",
+        "price": "Beer and wine from €3",
+        "description": "Lalogène is like your friend who's a senior in college but somehow still can't stick to their major. It truly can't decide whether it's a bar or a raging nightclub. With a relaxed environment on its outdoor patio and cheap selection of beers and wines, you'll want to sit back and take in an evening of lightly sipping on rosé outside."
+    },
+    {
+        "name": "La Place",
+        "coordinates": {
+            "lat": 43.9483,
+            "lng": 4.8055
+        },
+        "contentId": "la-place",
+        "category": "Nightlife",
+        "country": "France",
+        "openingHours": "Sunday-Saturday: 7:30 AM–1 AM",
+        "price": "Beer from €4",
+        "description": "What is the place to go out in Avignon? Oh, La Place. The bar itself features a great terrace but inside the bar is where the magic happens. Parties are bigger on the weekends than the weekdays."
+    }
+]
